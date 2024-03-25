@@ -14,9 +14,11 @@ We are currently undecided, but will likely be one of the following:
 
 We have pulled data from the [**U.S. Census Current Population Survey (CPS)**](https://www.census.gov/data/datasets/time-series/demo/cps/cps-basic.2023.html#list-tab-1979780401)
 This is a monthly data set that includes data about people's employment status and industry
+These are the jan23pub, feb23pub, etc files in the Census_BLS_Files folder.
 
 [**BLS Job Openings and Labor Turnover Survey**](https://www.bls.gov/jlt/data.htm)
 This shows monthly Job Opening and Quit data across industries
+This is the JOLTS.csv and SeriesReport-20240324154222_e1a37c.xlsx files in the Census_BLS_Files folder.
 
 Also consulted [**BLS Persons at work in nonagricultural industries by class of worker and usual full- or part-time status**](https://www.bls.gov/cps/cpsaat21.htm)
 

@@ -30,7 +30,7 @@ Are retailers exploiting workers by denying them opportunities to work full time
 From the FLSA website 
 The Fair Labor Standards Act (FLSA) does not define full-time employment or part-time employment. This is a matter generally to be determined by the employer. Whether an employee is considered full-time or part-time does not change the application of the FLSA, nor does it affect application of the Service Contract Act or Davis-Bacon and Related Acts wage and fringe benefit requirements.
 
-Another consideration is the the implication of US Health Insurance being provided by employers to the vast majority of Americans and the reality that many part-time employees are ineligible for health benefits?
+Another consideration is the the implication of US Health Insurance being provided by employers to the vast majority of Americans and the reality that many part-time employees are ineligible for health benefits.
 
 ## Description of Data Set 
 

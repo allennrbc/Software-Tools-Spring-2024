@@ -17,7 +17,7 @@ We are currently undecided, but will likely be one of the following:
 ### CEO
 Retail represents 1 out of 4 US jobs. In a low unemployment market does our CEO need to consider sweetening the pot by offering more Full Time positions with benefits to attract and retain personnel, reducing turnover, increasing institutional knowledge, and developing internal job growth? Note increase in minimum wage and industry rate of tuition reimbursement programs.
 
-Any CEO in office now will have read one of the Harvard Business Review’s case studies on Succession Planning. They will be fully aware that the cost of hiring is greater than the cost to promote from within: See UMassGolabl.edu article  Three Ways businesses that promote from within can benefit:
+Any CEO in office now will have read one of the Harvard Business Review’s case studies on Succession Planning ( https://hbr.org/topic/subject/succession-planning ). They will be fully aware that the cost of hiring is greater than the cost to promote from within: See UMassGolabl.edu article ( https://www.umassglobal.edu/news-and-events/blog/promoting-from-within ) "Three Ways businesses that promote from within can benefit":
 1. Promoting from within can save time and money
 2. Internal mobility can help with retention and motivation
 3. There’s less risk involved with internal promotions

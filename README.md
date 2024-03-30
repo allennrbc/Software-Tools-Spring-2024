@@ -25,12 +25,12 @@ Creating a pipeline for full time store personnel to join the executive training
 
 
 ### Policy Makers 
-Are retailers exploiting workers by denying them opportunities to work full time schedules with access to full benefits? Should employers be required to make some portion of their labor full time with benefits? What thresholds should be set? 
+Our Alternative consideration regards the reality that US Health Insurance is provided by employers to the vast majority of Americans and the standard business practice that most employers do not offer part-time employees health benefits. 
+
+In particular, are retailers exploiting part-time workers by denying them opportunities to work full time schedules with access to full benefits? Should employers be required to make some portion of their labor full time with benefits? What thresholds should be set? 
 
 From the FLSA website 
 The Fair Labor Standards Act (FLSA) does not define full-time employment or part-time employment. This is a matter generally to be determined by the employer. Whether an employee is considered full-time or part-time does not change the application of the FLSA, nor does it affect application of the Service Contract Act or Davis-Bacon and Related Acts wage and fringe benefit requirements.
-
-Another consideration is the the implication of US Health Insurance being provided by employers to the vast majority of Americans and the reality that many part-time employees are ineligible for health benefits.
 
 ## Description of Data Set 
 

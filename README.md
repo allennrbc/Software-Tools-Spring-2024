@@ -25,12 +25,24 @@ Creating a pipeline for full time store personnel to join the executive training
 
 
 ### Policy Makers 
-Our Alternative consideration regards the reality that US Health Insurance is provided by employers to the vast majority of Americans and the standard business practice that most employers do not offer part-time employees health benefits. 
+Our Alternative consideration regards the reality that of US Health Insurance is provided by employers to the vast majority of Americans (86% according to the US Census Bureau https://www.census.gov/library/stories/2024/02/health-care-costs.html#:~:text=About%2086%25%20of%20U.S.%20private,Survey%20(MEPS%2DIC).) and the standard business practice that most employers do not offer part-time employees health benefits. 
 
-In particular, are retailers exploiting part-time workers by denying them opportunities to work full time schedules with access to full benefits? Should employers be required to make some portion of their labor full time with benefits? What thresholds should be set? 
+In particular, are retailers exploiting part-time workers by denying them opportunities to work full time schedules with access to full benefits? Should employers be required to make some portion of their labor full time with benefits? What thresholds should be set? See ACA formula.
 
-From the FLSA website 
+According to ADP, https://www.adp.com/resources/articles-and-insights/articles/p/part-time-benefits.aspx "The ACA does not mandate coverage for part-time employees, but it does factor them into full-time equivalent (FTE) employee calculations. Depending on the number of part-time employees a business has and how many hours they work, it may meet the 50 FTE employee minimum and be required to provide health insurance for its full-time employees." 
+
+The same report ADP answers the question "How many hours do you need to work to qualify for benefits?"
+
+"Under the Affordable Care Act, employers with 50 or more full-time equivalent employees are required to provide health insurance only to those who work 30 hours per week or 130 hours per month. They can choose to extend benefits to employees who work less than that, but ##states and insurance companies may have minimum hourly requirements of their own." 
+
+According to Health Insurance.org https://www.healthinsurance.org/glossary/full-time-equivalent/  “The full-time equivalent is used to determine employer size under the ACA. Any employee working at least 30 hours per week is considered full time. In addition, part-time employees are counted using the full-time equivalent method of adding the total number of hours worked by all part time employees in a month, and dividing by 120.”
+
+From the FLSA website (https://www.dol.gov/general/topic/workhours/full-time)
 The Fair Labor Standards Act (FLSA) does not define full-time employment or part-time employment. This is a matter generally to be determined by the employer. Whether an employee is considered full-time or part-time does not change the application of the FLSA, nor does it affect application of the Service Contract Act or Davis-Bacon and Related Acts wage and fringe benefit requirements.
+
+The Department of Labor’s Wage and Hour Division’s home page also explains the August 30, 2023, the Department of Labor announced issuance of a Notice of Proposed Rulemaking (NPRM), Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees.https://www.dol.gov/agencies/whd/overtime/rulemaking
+And on January 10, 2024, the U.S. Department of Labor published a final rule Employee or Independent Contractor Classification Under the Fair Labor Standards Act, effective March 11, 2024. https://www.federalregister.gov/public-inspection/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act Both could be useful references for our research.
+
 
 ## Description of Data Set 
 

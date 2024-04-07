@@ -1,6 +1,6 @@
 # Software-Tools-Spring-2024
 # README
-The purpose of this README document is to update details and evidence as we  research our proposal question being addressed.
+The purpose of this README document is to organize our evidence, develop our thesis statement, and strategize our research/proposal questions.
 
 PLEASE note that this file does not include updates to the data, tools, and methods used. 
 
@@ -12,13 +12,14 @@ Our research questions is currently in development, but we are considering the f
 3. Can we compare other industries that were able to argue for consultants and independent contractors to be converted to full-time employees with benefits?
 4. What harms might such a change create?
    a. Consider the increase of minimum wage and possible reduction in the number of jobs and/or hours of work? (see UW Evans School of Public Policy & Governance December 3, 2021 report)
+5. Are these questions being addressed by the ACA and FTE criteria? What shortfalls remain to be addressed?
 
 ## Decision Maker and Decision Being Made
 We are leaning toward a POLICY MAKER rather than a CEO
 
-## What do preformatted FRED graphs already tell us?
+## Which graphs have already been created by our group and which questions remain to be answered?
 
-Which graphs have Dan and Ran already created and which questions remain to be answered?
+## What do preformatted FRED graphs already tell us?
 
 ### All Employees, Retail Trade (USTRADE)
 
@@ -46,9 +47,11 @@ https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGTPPH
 
 Median of the year-over-year percent change in hourly wage rates computed at the individual level using linked wage records. Reported as a 12-month moving average. Paid Hourly denotes individuals who report that they are paid on an hourly basis.
 
-### FTE Full-Time Equivalent emlpoyees as definined by the IRS for the ACA (Affordable Care Act) to determine ALE (Applicable Large Emlpoyers)
+### FTE Full-Time Equivalent employees as definined by the IRS for the ACA (Affordable Care Act) to determine ALE (Applicable Large Emlpoyers)
 
 Could we improve the chances for successful adoption of our policy recommendations by adopting the definitions and formulas already in place, or adopting similar formulas/formulae?
+
+Are we proposing a new solution or an incremental improvement to a preexisting solution? 
 
 Would similar formulas/formulae simplify adoption by employers' HR departments?
 
@@ -104,7 +107,15 @@ This article is more than 4 years old
 Workers say Target is making drastic cuts to their schedules and doubling their workload as it increases minimum wage under its ‘modernization plan’ to increase efficiency
 
 ### CEO
-Retail represents 1 out of 4 US jobs. In a low unemployment market does our CEO need to consider sweetening the pot by offering more Full Time positions with benefits to attract and retain personnel, reducing turnover, increasing institutional knowledge, and developing internal job growth? Note increase in minimum wage and industry rate of tuition reimbursement programs.
+Retail represents 1 out of 4 US jobs. In a low unemployment market do CEOs need to consider sweetening the pot by offering more Full Time positions with benefits to attract and retain personnel, reduce turnover, increase institutional knowledge, and develop internal job growth? Note 1. effects of Seattle, WA increase in minimum wage and subsequent loss in jobs and 2. retail industry rate of tuition reimbursement programs (see Forbes
+https://www.forbes.com/sites/robertfarrington/2021/08/26/more-companies-are-offering-college-tuition-benefits-to-their-employees/?sh=57f4468c2fba
+More Companies Are Offering College Tuition Benefits To Their Employees by Robert Farrington on Aug 26, 2021,11:00am EDT
+
+and 
+CNBC  https://www.cnbc.com/2023/05/26/many-companies-offer-tuition-assistance-for-workers-to-go-to-college.html
+Many companies are adding, expanding tuition assistance so workers can go back to college
+PUBLISHED FRI, MAY 26 202312:09 PM EDTUPDATED MON, MAY 29 20238:22 PM EDT
+
 
 Any CEO in office now will have read one of the Harvard Business Review’s case studies on Succession Planning https://hbr.org/topic/subject/succession-planning 
 

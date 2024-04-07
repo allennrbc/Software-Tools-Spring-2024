@@ -5,7 +5,7 @@ The purpose of this README document is to organize our evidence, develop our the
 PLEASE note that this file does not include updates to the data, tools, and methods used. 
 
 ## Research Question
-It’s Not Just Wages. Retailers Are Mistreating Workers in a More Insidious Way.
+"It’s Not Just Wages. Retailers Are Mistreating Workers in a More Insidious Way."
 Feb. 19, 2024
 By Adelle Waldman
 Ms. Waldman’s forthcoming novel, “Help Wanted,” takes place in a big-box store.

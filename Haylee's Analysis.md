@@ -26,6 +26,81 @@ Wage Purchasing Power in a chosen year = (Nominal wage in the base year/ CPI in 
 
 Doing this will tell us if wages are the problem: have wages kept up pace in terms of purchasing power?
 
+---
+title: "Project Checkpoint 1"
+author: "Haylee Allen"
+date: "4/7/2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Comparing wages in retail to their real wage value and purchasing poser
+
+```{r data setup}
+rm(list = ls()) # Clear environment
+gc()            # Clear memory
+cat("/f")       # Clear console
+
+#load libraries
+library(fredr)
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+
+#Get Data
+setwd("C:/Users/hrall/OneDrive/Documents/School/Spring 2024/Software Tools for Data Analysis/Final/Data") #set directory
+RealWageData<-read.csv("RealWage.csv", header=TRUE)
+
+#check for null values
+sum(is.na(RealWageData))
+
+#Data clean up
+#create data to omit nulls
+RealWageDataOmit<-na.omit(RealWageData)
+#Change the header names
+colnames(RealWageDataOmit)[2]<- "CPI"
+colnames(RealWageDataOmit)[3]<- "NominalWage"
+
+#View data
+summary(RealWageDataOmit)
+```
+
+
+Calculating the real wage and purchasing power for each wage data point provided by FRED
+
+```{r add new columns}
+#Calculate purchasing power
+#since the first row of data is 3/1/2006, this will be our base
+#Determine the values for the base
+NomWageBase<- RealWageDataOmit[1,3]
+CPIBase<- RealWageDataOmit[1,2]
+
+#Add in columns for purchasing power and real Wage
+WageData<-RealWageDataOmit %>%
+  mutate(
+    PP = (NomWageBase/CPIBase)*CPI,
+    RealWage = (NominalWage/CPI)*100)
+
+WageData
+summary(WageData)
+```
+
+Plot the data
+
+```{r aplot}
+#Plot real wage and purchasing power
+ggplot(WageData, aes(x=DATE, y=RealWage, group = 1))+
+  geom_line()+
+  labs(title = "Real Wage", x = "Date", y = "Real Wage")
+```
+
+Note: I need to scale the x axis
+
 Similarly, when determining if trends in PT are voluntary or forced, we can look at other quality of life indicators
 
 # Using JOLTS data

@@ -1,30 +1,58 @@
 # Software-Tools-Spring-2024
 # README
-The purpose of this README document is to update details and evidence as we  research our proposal question being addressed.
+The purpose of this README document is to organize our evidence, develop our thesis statement, and strategize our research/proposal questions.
 
 PLEASE note that this file does not include updates to the data, tools, and methods used. 
 
 ## Research Question
-Our research questions is currently in development, but we are considering the following items:
+"It’s Not Just Wages. Retailers Are Mistreating Workers in a More Insidious Way."
+Feb. 19, 2024
+By Adelle Waldman
+Ms. Waldman’s forthcoming novel, “Help Wanted,” takes place in a big-box store.
+
+Our inquiries have taken us to multiple first hand sources but our requests for information were fruitless
+
+            FIT Associate Professor Gary Wolf "has access to product data, not labor data"
+            
+            Author Adelle Waldman - no reply
+            
+            ADP Research Institute. "We do not share or sell our data aside from what we have published on www.ADPRI.org." 
+            
+            Stanford Digital Economu Lab digitaleconomylab@stanford.edu.
+            
+            National Retail Federation - no reply
+            
+            
+We have had to satisfy ourselves with aggregated sources that are excellent in their breadth and depth if not specific to our needs.
+
+## We are currently looking at data to answer these questions:
 
 1. Has the rate of part-time retail positions changed over time?
 2. Is this “insidious” problem really new?
-3. Can we compare other industries that were able to argue for consultants and independent contractors to be converted to full-time employees with benefits?
-4. What harms might such a change create?
-   a. Consider the increase of minimum wage and possible reduction in the number of jobs and/or hours of work? (see UW Evans School of Public Policy & Governance December 3, 2021 report)
+3. Can the ACA and FTE criteria releive part of this "insidious" problem? What shortfalls remain to be addressed?
 
-## Decision Maker and Decision Being Made
-We are leaning toward a POLICY MAKER rather than a CEO
+4. IF this is a new problem, what has changed in the retail workforce or in the general labor market
+5. Has the business of retail changed?
+
+6. Can we compare other jobs that were able to argue for consideration as full-time permanent employees?
+    a. Contractors and Consultants granted Employee benefits
+7.  What harms might such a change create? Considerations:
+   
+   a. Dislocation And Its Discontents: Ride-Sharing's Impact On The Taxi Industry see Forbes, Jun 8, 2018, 06:59pm EDT https://www.forbes.com/sites/michaelgoldstein/2018/06/08/uber-lyft-taxi-drivers/?sh=7b71843859f0
+   
+   b. New Evidence from the Seattle Minimum Wage Study. UW Evans School of Public Policy & Governance December 3, 2021 report https://evans.uw.edu/new-evidence-from-the-seattle-minimum-wage-study/ 
+
+## Which graphs have already been created by FRED and by our group? 
+## Which questions remain to be answered?
 
 ## What do preformatted FRED graphs already tell us?
-
-Which graphs have Dan and Ran already created and which questions remain to be answered?
 
 ### All Employees, Retail Trade (USTRADE)
 
 https://fred.stlouisfed.org/series/USTRADE
 
-OBSERVATION - From 1939 to present, the gross numbers continue to grow with dips reflecting significant economic downturns.
+OBSERVATION - From 1939 to present, the gross numbers continue to grow with dips reflecting significant economic downturns. 
+With so many jobs, representing so many hours, why are so many of these jobs part-time? What functions do these jobs represent that can't be completed by a full time employee?
 
 ### The largest changes in payroll employment
 
@@ -33,6 +61,8 @@ https://fredblog.stlouisfed.org/2020/05/the-largest-changes-in-payroll-employmen
 “...Both reductions in employment were orchestrated: In 1983, the labor stoppage was to achieve better working conditions [for telephone & telegraph workers]; in 2020, the labor stoppage [was] to slow the spread of the COVID-19 pandemic.”
 
 OBSERVATION - Could we make a similar comparison between a recommendation to transition to more full time workers with another pre-existing data point (independent contractors for employees with benefits)?
+
+One of the ACA FTE formulas allows/requires employers with multiple locations within a specific geographic area to make some parttime jobs full time travelling postions.
 
 ### Average hourly earning of all employees, retail trade
 
@@ -46,11 +76,15 @@ https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGTPPH
 
 Median of the year-over-year percent change in hourly wage rates computed at the individual level using linked wage records. Reported as a 12-month moving average. Paid Hourly denotes individuals who report that they are paid on an hourly basis.
 
-### FTE Full-Time Equivalent emlpoyees as definined by the IRS for the ACA (Affordable Care Act) to determine ALE (Applicable Large Emlpoyers)
+### FTE Full-Time Equivalent employees as definined by the IRS for the ACA (Affordable Care Act) to determine ALE (Applicable Large Emlpoyers)
 
 Could we improve the chances for successful adoption of our policy recommendations by adopting the definitions and formulas already in place, or adopting similar formulas/formulae?
 
+Are we proposing a new solution or an incremental improvement to a preexisting solution? 
+
 Would similar formulas/formulae simplify adoption by employers' HR departments?
+
+Are there gaps between the available solutions provided by ACA and FTE, and the "insidious" problem?
 
 ## From the IRS website
 
@@ -64,7 +98,15 @@ A full-time equivalent employee is a combination of employees, each of whom indi
 
 [CURRENTY] An employer’s number of full-time equivalent employees (or part-time employees) is only relevant to determining whether an employer is an ALE.  An ALE need not offer minimum essential coverage to its part-time employees to avoid an employer shared responsibility payment.  A part-time employee’s receipt of the premium tax credit for purchasing coverage through the Marketplace cannot trigger an employer shared responsibility payment.
 
+OBSERVATION Does our Policy Maker need to consider educating part-time employees about the premium tax credit for purchasing coverage through the Marketplace
+
 #### The above formula could facilitate implementation of employer sponsored health care benefits to part-time workers.
+
+## Decision Maker and Decision Being Made
+
+## For the first month of data collection we left open who our decision maker might be so that we could better understand the available information and learn what it might tell us. We have learned that CEOs have been actively experimenting with higher wages and improved benefits to attract and retain personnel, but there remains a perversely high number of part-time positions that are not elegible for those improved benefits.
+
+## We have come to the conclusion that a POLICY MAKER will need to lead this change.
 
 ## Retailers in the news
 
@@ -104,7 +146,15 @@ This article is more than 4 years old
 Workers say Target is making drastic cuts to their schedules and doubling their workload as it increases minimum wage under its ‘modernization plan’ to increase efficiency
 
 ### CEO
-Retail represents 1 out of 4 US jobs. In a low unemployment market does our CEO need to consider sweetening the pot by offering more Full Time positions with benefits to attract and retain personnel, reducing turnover, increasing institutional knowledge, and developing internal job growth? Note increase in minimum wage and industry rate of tuition reimbursement programs.
+Retail represents 1 out of 4 US jobs. In a low unemployment market do CEOs need to consider sweetening the pot by offering more Full Time positions with benefits to attract and retain personnel, reduce turnover, increase institutional knowledge, and develop internal job growth? Note 1. effects of Seattle, WA increase in minimum wage and subsequent loss in jobs and 2. retail industry rate of tuition reimbursement programs (see Forbes
+https://www.forbes.com/sites/robertfarrington/2021/08/26/more-companies-are-offering-college-tuition-benefits-to-their-employees/?sh=57f4468c2fba
+More Companies Are Offering College Tuition Benefits To Their Employees by Robert Farrington on Aug 26, 2021,11:00am EDT
+
+and 
+CNBC  https://www.cnbc.com/2023/05/26/many-companies-offer-tuition-assistance-for-workers-to-go-to-college.html
+Many companies are adding, expanding tuition assistance so workers can go back to college
+PUBLISHED FRI, MAY 26 202312:09 PM EDTUPDATED MON, MAY 29 20238:22 PM EDT
+
 
 Any CEO in office now will have read one of the Harvard Business Review’s case studies on Succession Planning https://hbr.org/topic/subject/succession-planning 
 

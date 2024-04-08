@@ -19,6 +19,10 @@ Non-economic Reasons: This category includes only people who usually work part t
 6. having a job where full-time work is less than 35 hours
 This category also includes a relatively small number of people who give an economic reason for working 1 to 34 hours but said they do not want to work full time or are unavailable for full-time work.
 
+## Wages
+How much are part-time workers making compared to full-time workers?
+
+
 ## Comparing Wages to Purchasing Power
 Compare wages (https://fred.stlouisfed.org/series/CES4200000003) to CPI (https://fred.stlouisfed.org/series/CPIAUCSL) and calculate to get the real wage 
 Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
@@ -99,11 +103,19 @@ ggplot(WageData, aes(x=DATE, y=RealWage, group = 1))+
   labs(title = "Real Wage", x = "Date", y = "Real Wage")
 ```
 
-Note: I need to scale the x axis
+Note: I need to scale the x axis and am working on getting the plots to show in github
 
 Similarly, when determining if trends in PT are voluntary or forced, we can look at other quality of life indicators
 
-# Using JOLTS data
+## Health Insurance Data
+Data provided by https://www.kff.org/other/state-indicator/total-population
+One of the main benefits of working full time is acccess to employer-paid benefits. The following plots show trends in how and if people held health insurance. This data can be compared to trends in full-time and part-time employment to identify any possible similar trends
+
+- Coding is done, trying to get graphs to show
+
+## Costs to corporations - why would they want to hire PT
+
+# Using JOLTS data - Possibly Ran?
 Can we identify trends in quiting rates?
 
 ## Decisions as a Policy Maker

@@ -1,34 +1,19 @@
 # Haylee's Analysis for Check Point 1
-## Recommendations for furthering analysis already completed
-Using the data Dan analyzed on his RPubs page (https://rpubs.com/DanielCusick/1159736), can we compare those working PT for economic reasons vs those working PT for non-econimic reasons? Do we see similar, opposing, or random trends? Did specific events/policies occur during or right before these trends?
+Below are analysis items for identifying potential impacts of part-time employment. The first two analysis focus on wages while the third analysis uses a quality of life indicator  and a benefit of full-time work: access to health insurance. 
 
-This idea comes from the descriptions of PT done for economic reasons vs non-economic reason found on the BLS site (https://www.bls.gov/cps/definitions.htm#pter)
-Economic Reasons (also referred to as involuntary part-time workers): This category includes people who gave an economic reason when asked why they worked 1 to 34 hours during the reference week. Their usual hours of work may be either full or part time. Economic reasons include the following:
-1. slack work
-2. unfavorable business conditions
-3. inability to find full-time work
-4. seasonal declines in demand
-People who usually work part time and were at work part time during the reference week must indicate that they want and are available for full-time work to be classified as part time for economic reasons.
+While the code is available in this document, results can be seen on RPubs here
 
-Non-economic Reasons: This category includes only people who usually work part time. When asked why they worked 1 to 34 hours during the survey reference week, they gave a noneconomic reason such as the following:
-1. illness or other health or medical limitations
-2. childcare problems
-3. family or personal obligations
-4. in school or training
-5. retirement or Social Security limits on earnings
-6. having a job where full-time work is less than 35 hours
-This category also includes a relatively small number of people who give an economic reason for working 1 to 34 hours but said they do not want to work full time or are unavailable for full-time work.
 
 ## Wages
 How much are part-time workers making compared to full-time workers?
-
+- Need to build
 
 ## Comparing Wages to Purchasing Power
 Compare wages (https://fred.stlouisfed.org/series/CES4200000003) to CPI (https://fred.stlouisfed.org/series/CPIAUCSL) and calculate to get the real wage 
 Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
 Wage Purchasing Power in a chosen year = (Nominal wage in the base year/ CPI in the base year)(CPI in the selected year)
 
-Doing this will tell us if wages are the problem: have wages kept up pace in terms of purchasing power?
+Doing this will tell us if wages are the problem: have wages paid to retail-workers kept up pace in terms of purchasing power?
 
 ---
 title: "Project Checkpoint 1"
@@ -111,12 +96,40 @@ Similarly, when determining if trends in PT are voluntary or forced, we can look
 Data provided by https://www.kff.org/other/state-indicator/total-population
 One of the main benefits of working full time is acccess to employer-paid benefits. The following plots show trends in how and if people held health insurance. This data can be compared to trends in full-time and part-time employment to identify any possible similar trends
 
-- Coding is done, trying to get graphs to show
+Comparing health insurance coverage by type of coverage
+
+First, the data is reviewed and the insurance type "Total" is eliminated as it is the total of all insurace types and always equals 1
+
+```{r Health Insurance Data Cleanup}
+HealthInsuranceCoverage<-read.csv("HealthInsuranceCoverage.csv", header=TRUE)
+
+#view data
+summary(HealthInsuranceCoverage)
+
+#check for null values
+sum(is.na(HealthInsuranceCoverage))
+
+
+#Eliminate 'Total' as it will always be 1
+HealthInsCoverageNew<- filter(HealthInsuranceCoverage, Typle != "Total")
+
+#view data
+summary(HealthInsCoverageNew)
+```
+
+Plot comparison graph of health insurance coverage by type
+
+```{r Health Insurance Plot}
+#plot
+ggplot(HealthInsCoverageNew, aes(x=Year, y=Percentage, group = 1))+
+  geom_line()+facet_wrap(~ Typle) 
+```
 
 ## Costs to corporations - why would they want to hire PT
 
-# Using JOLTS data - Possibly Ran?
+### Costs of Full-Time employees
+https://money.usnews.com/money/personal-finance/articles/how-many-part-time-jobs-does-it-take-to-earn-a-full-time-income#:~:text=Median%20Earnings%20of%20U.S.%20Workers&text=That%20means%20the%20typical%20part,according%20to%202022%20BLS%20data.
+
+### Using JOLTS data - Possibly Ran?
 Can we identify trends in quiting rates?
 
-## Decisions as a Policy Maker
-If we are recommending policy, can we look at policies related to wage and hour requirements before, during, and after certain changes/trends in PT and FT 

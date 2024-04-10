@@ -3,7 +3,7 @@
 ## Discussion of progress on the eight major tasks. 
 1. Propose a research topic:
 
-Please see Christine's Analysis on information on our research topic and progress made on selecting a decision maker as well as articles and information that has inspired our analysis. 
+Please see the file titled "Christine's Analysis.md" on information on our research topic and progress made on selecting a decision maker as well as articles and information that has inspired our analysis. 
 
 2. Create a GitHub repository and establish best practices for team collaboration
 
@@ -15,7 +15,7 @@ Each of our analysis comes from different data sources. One thing we can do in t
 
 4. Visualize data using Tableau, R, Python, or a combination
 
-All analysis we have completed so far is in R for consistency and based on our comfortablitiy with this software. 
+All analysis we have completed so far is in R for consistency and based on our comfortability with this software. As we develop our analysis, we are considering other visualization tools. 
 
 5. Generate meaningful summary statistic (KPIs) of the data
 

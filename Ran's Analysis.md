@@ -1,5 +1,7 @@
 # Comparing Trends in quitting data
 
+Please see the published version under "Quitting Rates" [here](https://rpubs.com/allennrbc/1171764)
+
 Note: This analysis as well as commentary on the resulting plots will be published to RPubs or another alternative as we are working through using GitHub. 
 
 library(ggplot2)

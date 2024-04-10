@@ -3,8 +3,6 @@ Below are analysis items for identifying potential impacts of part-time employme
 
 Please see publication on [RPubs](https://rpubs.com/allennrbc/1171764)
 
-While the code is available in this document, results can be seen on RPubs here
-
 ## Other items to build:
 Wages: How much are part-time workers making compared to full-time workers?
 

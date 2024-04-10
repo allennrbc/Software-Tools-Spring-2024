@@ -1,64 +1,41 @@
-# Software-Tools-Spring-2024
-# README
-The purpose of this README document is to provide the research question being addressed and the data, tools, and methods used. 
+# Group 1 (Christine GC Heinicke, Daniel Cusick, Haylee Allen, and Ran Tao) - Checkpoint 1 4/10/2024
 
-## Research Question
-Our research questions is currently in development, but we are considering the following items:
+## Discussion of progress on the eight major tasks. 
+1. Propose a research topic:
 
-1. Has the rate of part-time retail positions changed over time?
-2. Is this “insidious” problem really new?
-3. Can we compare other industries that were able to argue for consultants and independent contractors to be converted to full-time employees with benefits?
-4. What harms might such a change create?
-   a. Consider the increase of minimum wage and possible reduction in the number of jobs and/or hours of work? (see UW Evans School of Public Policy & Governance December 3, 2021 report)
+Please see Christine's Analysis on information on our research topic and progress made on selecting a decision maker as well as articles and information that has inspired our analysis. 
 
-## Decision Maker and Decision Being Made
-We are currently undecided, but will likely be one of the following:
+2. Create a GitHub repository and establish best practices for team collaboration
 
-### CEO
-Retail represents 1 out of 4 US jobs. In a low unemployment market does our CEO need to consider sweetening the pot by offering more Full Time positions with benefits to attract and retain personnel, reducing turnover, increasing institutional knowledge, and developing internal job growth? Note increase in minimum wage and industry rate of tuition reimbursement programs.
+For this checkpoint, we created separate documents for us each to display the analysis and work we have done. Our goal moving forward will be to expand on the analysis each of us has done and combine work as well as identify gaps and assign tasks to fill these gaps. 
 
-Any CEO in office now will have read one of the Harvard Business Review’s case studies on Succession Planning ( https://hbr.org/topic/subject/succession-planning ). They will be fully aware that the cost of hiring is greater than the cost to promote from within: See UMassGolabl.edu article ( https://www.umassglobal.edu/news-and-events/blog/promoting-from-within ) "Three Ways businesses that promote from within can benefit":
-1. Promoting from within can save time and money
-2. Internal mobility can help with retention and motivation
-3. There’s less risk involved with internal promotions
-Creating a pipeline for full time store personnel to join the executive training program should be cost effective. It could also generate a good public relations opportunity. 
+3. Demonstrate meging of multiple data sources
 
+Each of our analysis comes from different data sources. One thing we can do in the future is to create graphs and analysis created from merging data sets together. For now, much of the analysis has been completed as separate inspections of each dataset. 
 
-### Policy Makers 
-Our Alternative consideration regards the reality that US Health Insurance is provided by employers to 86%  of Americans according to the US Census Bureau. https://www.census.gov/library/stories/2024/02/health-care-costs.html#:~:text=About%2086%25%20of%20U.S.%20private,Survey%20(MEPS%2DIC).) Yet, there is a standard business practice that most employers do not offer health benefits to part-time employees. 
+4. Visualize data using Tableau, R, Python, or a combination
 
-In particular, are retailers exploiting part-time workers by denying them opportunities to work full time schedules with access to full benefits? Should employers be required to make some portion of their labor full time with benefits? What thresholds should be set? See ACA formula.
+All analysis we have completed so far is in R for consistency and based on our comfortablitiy with this software. 
 
-According to ADP, https://www.adp.com/resources/articles-and-insights/articles/p/part-time-benefits.aspx "The ACA does not mandate coverage for part-time employees, but it does factor them into full-time equivalent (FTE) employee calculations. Depending on the number of part-time employees a business has and how many hours they work, it may meet the 50 FTE employee minimum and be required to provide health insurance for its full-time employees." 
+5. Generate meaningful summary statistic (KPIs) of the data
 
-The same report ADP answers the question "How many hours do you need to work to qualify for benefits?"
+While some KPIs have been identified in our individual analysis, there is room for improvement here as we merge our analysis to draw conclusions. 
 
-"Under the Affordable Care Act, employers with 50 or more full-time equivalent employees are required to provide health insurance only to those who work 30 hours per week or 130 hours per month. They can choose to extend benefits to employees who work less than that, but states and insurance companies may have minimum hourly requirements of their own." 
+6. Submit draft of progress at Chekpoint 1 and Checkpoint 2
 
-According to Health Insurance.org https://www.healthinsurance.org/glossary/full-time-equivalent/  “The full-time equivalent is used to determine employer size under the ACA. Any employee working at least 30 hours per week is considered full time. In addition, part-time employees are counted using the full-time equivalent method of adding the total number of hours worked by all part time employees in a month, and dividing by 120.”
+Completing with this branch
 
-From the FLSA website (https://www.dol.gov/general/topic/workhours/full-time)
-"The Fair Labor Standards Act (FLSA) does not define full-time employment or part-time employment. This is a matter generally to be determined by the employer. Whether an employee is considered full-time or part-time does not change the application of the FLSA, nor does it affect application of the Service Contract Act or Davis-Bacon and Related Acts wage and fringe benefit requirements."
+8. Summmarize your findings in a short video presentation
 
-From The Department of Labor’s Wage and Hour Division’s home page:  "On August 30, 2023, the Department of Labor announced issuance of a Notice of Proposed Rulemaking (NPRM), Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees." https://www.dol.gov/agencies/whd/overtime/rulemaking
+Christine is working with the production team at the school for which she works to help develop our presentation. We are hoping to have everything submitted to them by the early in the last week of April. 
+   
+10. Publish a detailed, well formatted markdown report of your analytical story to your GitHub reposity.
 
-And on "January 10, 2024, the U.S. Department of Labor published a final rule Employee or Independent Contractor Classification Under the Fair Labor Standards Act, effective March 11, 2024." https://www.federalregister.gov/public-inspection/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act Both could be useful references for our research.
+In progress - this will be the README file on our main branch.
 
+## Comment on the challenges and victories of collaborating on GitHub.
+The benefits of working with GitHub is our ability to work individually on our own schedules and to see the contributions of each team member. Additionally, we can each perform our own analysis and publish separately. Our main challenge has been our limited knowledge and exposure to GitHub. Currently, we are looking at how to merge RPubs with GitHub so our visuals can be seen here. If not, we can post a link to RPubs.
 
-## Description of Data Set 
+## Report the individual contributions of each team member. The latest working files should be pushed to the GitHub Repository.
+Please see our individual md files for information on each of our contributions. Christine has continued to focus on our research goals and provided resources for analysis. Dan, Ran, and Haylee all used R to create summaries and visuals of various data. Our goal is combine these findings to create appropriate recommendations for our decision maker. 
 
-We have pulled data from the [**U.S. Census Current Population Survey (CPS)**](https://www.census.gov/data/datasets/time-series/demo/cps/cps-basic.2023.html#list-tab-1979780401)
-This is a monthly data set that includes data about people's employment status and industry
-This is the census2324ind.csv file.
-
-[**BLS Job Openings and Labor Turnover Survey**](https://www.bls.gov/jlt/data.htm)
-This shows monthly Job Opening and Quit data across industries
-This is the JOLTS.csv file.
-
-Also consulted [**BLS Persons at work in nonagricultural industries by class of worker and usual full- or part-time status**](https://www.bls.gov/cps/cpsaat21.htm)
-
-Lastly, we are examining data provided by consulted [**Bureau of Economic Analysis (BEA)**](https://www.bea.gov/data)
-The BEA, an agency of the U.S. Department of Commerce, provides economic accounts statistics that enable government and business decision-makers to follow and understand the performance of the U.S. economy. 
-
-## Tools and Methods Used
-R - GGPlOT to create visualizations

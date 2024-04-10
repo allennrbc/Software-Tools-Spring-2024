@@ -23,7 +23,7 @@ While some KPIs have been identified in our individual analysis, there is room f
 
 6. Submit draft of progress at Chekpoint 1 and Checkpoint 2
 
-Completing with this branch
+Completing with this branch. While the visualizations created help us decide routes we may want to pursue, our graphs do need some cleaning up including improved titles and labels and appropriate scaling. 
 
 8. Summmarize your findings in a short video presentation
 

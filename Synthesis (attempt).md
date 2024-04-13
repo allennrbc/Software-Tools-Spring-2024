@@ -53,7 +53,7 @@ The retail Industry leads with the highest number of workers below the ALICE thr
 
 ## can we insert a tableau graph in this read me file?
 
-But is this really an insidious problem? How long has this been going on?
+# Is this really an insidious problem? How long has this been going on?
 
 We looked at the last 20 years, creating a Time Series by Industry for 2005-2024 finding that the % of part-time workers who can only find part-time 
 work fluctuates similarly across most industries.
@@ -80,6 +80,12 @@ The dashed reference line at 5% helps emphasize this.
 The x-axis is marked at 2.5 year intervals.
 
 ## Can we insert the retail section of the above table of graphs?
+
+# How did we get here?
+  Policies?
+	Employer practices?
+What effects can be attributed to which actions?
+What (if any) work is there still to be done?
 
 # Work In Progress (WIP) from Haylee's R Pub doc
 
@@ -109,7 +115,8 @@ OR
 
 Are 80% of retail workers COVERED BY HEALTH INSURANCE?
 
-FINALLY,
+# FINALLY,
+
 Even if we determine that this retail industry practice of hiring part-time workers and then subjecting them to dynamic schedules which confounds a 
 worker’s ability to manage caring for family or scheduling a second job, and then choosing to hire more part-time workers rather than increasing the 
 work hours of existing staff is truly insidious;
@@ -118,6 +125,9 @@ There is a significant discrepancy between the NRF data claiming that retail sup
 and the Bureau of Labor Statistics Employment of industry report https://www.bls.gov/charts/employment-situation/employment-levels-by-industry.htm
 
 # can we insert BLS.gov graph?
+
+
+
 
 
 

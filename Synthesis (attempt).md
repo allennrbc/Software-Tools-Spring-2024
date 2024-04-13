@@ -82,10 +82,55 @@ The x-axis is marked at 2.5 year intervals.
 ## Can we insert the retail section of the above table of graphs?
 
 # How did we get here?
-  Policies?
-	Employer practices?
-What effects can be attributed to which actions?
-What (if any) work is there still to be done?
+
+Big Picture (U6 rate https://fred.stlouisfed.org/series/U6RATE) for 30 years
+
+U6 rate 2005-2024 https://fred.stlouisfed.org/series/U6RATE
+
+Policies?
+
+The US has a long history of entrepreneurship favoring business and property owners over labor. 
+
+
+# 1. Employee or Independent Contractor Classification Under the Fair Labor Standards Act
+A Rule by the Wage and Hour Division on 01/10/2024 
+https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act
+	Employer practices? 
+The U.S. Department of Labor is modifying Wage and Hour Division regulations to replace its analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.
+
+# 2. United States labor law https://en.wikipedia.org/wiki/United_States_labor_law last edited  April 1, 2024
+“Over the 20th century, federal law created minimum social and economic rights, and encouraged state laws to go beyond the minimum to favor employees.[2] The Fair Labor Standards Act of 1938 requires a federal minimum wage, currently $7.25 but higher in 29 states and D.C., and discourages working weeks over 40 hours through time-and-a-half overtime pay. There are no federal laws, and few state laws, requiring paid holidays or paid family leave. The Family and Medical Leave Act of 1993 creates a limited right to 12 weeks of unpaid leave in larger employers. There is no automatic right to an occupational pension beyond federally guaranteed Social Security,[3] but the Employee Retirement Income Security Act of 1974 requires standards of prudent management and good governance if employers agree to provide pensions, health plans or other benefits. The Occupational Safety and Health Act of 1970 requires employees have a safe system of work.”
+
+# 3. The U.S. Department of Labor https://www.dol.gov/general/aboutdol/history/dolhistoxford
+By Judson MacLaury - The organic act establishing the Department of Labor was signed on March 4, 1913, by a reluctant President William Howard Taft, the defeated and departing incumbent, just hours before Woodrow Wilson took office. A Federal Department of Labor was the direct product of a half-century campaign by organized labor for a "Voice in the Cabinet," and an indirect product of the Progressive Movement. In the words of the organic act, the Department's purpose is "to foster, promote and develop the welfare of working people, to improve their working conditions, and to enhance their opportunities for profitable employment."
+
+Employer ACTIONS or PRACTICES (?)
+
+# 1. Every CEO in office will have read one of the HBR succession planning Case Studies. https://hbr.org/topic/subject/succession-planning and understand the
+UMassGolabl.edu article "Three Ways businesses that promote from within can benefit" https://www.umassglobal.edu/news-and-events/blog/promoting-from-within
+
+# Promoting from within can save time and money
+# Internal mobility can help with retention and motivation
+# There’s less risk involved with internal promotions. Creating a pipeline for full time store personnel to join the executive training program should be cost effective. It could also generate a good public relations opportunity.
+
+# 2. Some of the biggest retailers have offered tuition reimbursement and better work schedules including consistency and full-time schedules, and then withdrawn those benefits.
+
+Target Is Doing The Right Thing By Investing Heavily In Employees And Customers
+https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/?sh=54fb8fb15045
+
+Target raised wages. Then it cut workers' hours and doubled their workload
+https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/?sh=54fb8fb15045
+
+Walmart makes more workers full-time in effort to retain employees
+https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/?sh=54fb8fb15045
+
+About Working at Walmart
+https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/?sh=54fb8fb15045
+
+# 3. According to the BLS many retail jobs do not pay a living wage. Our analysis of data from [NAME SOURCES] has found that retail consistently sustains a higher level of part-time workers when compared with other sectors.
+
+### What effects can be attributed to which actions?
+### What (if any) work is there still to be done?
 
 # Work In Progress (WIP) from Haylee's R Pub doc
 

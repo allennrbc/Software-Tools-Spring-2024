@@ -290,7 +290,7 @@ on seasonal work for SUMMER and end of year HOLIDAY jobs.
 
 ### insert Haylee's Open and Quit rates by sector by month
 
-What else can we see when the opening and quit rates and reported side
+What else can we see when the opening and quit rates are reported side
 by side for each month?
 
 # Our key takeaways

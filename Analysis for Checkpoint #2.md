@@ -350,7 +350,7 @@ County by County Plan Year 2024 Insurer Participation in Health
 Insurance Exchanges
 <https://www.cms.gov/files/document/cms-cciio-draft-py-24-public-facing-map10262023v1.pdf>
 
-Nevada will get worse with less exchange particpation. Mississippi will
+Nevada will get worse with less exchange participation. Mississippi will
 get better, Texas appears to be improving in some counties, but getting
 worse in others. While Colorado and New Mexico appear to be losing
 ground.

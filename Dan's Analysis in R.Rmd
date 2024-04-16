@@ -2,10 +2,14 @@
 title: "Part-Time Work IPUMS CPS Analysis "
 author: "Dan"
 date: "4/7/2024"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
+rm(list = ls())
+cat("\014")
 knitr::opts_chunk$set(echo = TRUE)
 library(ipumsr)
 library(tidyverse)

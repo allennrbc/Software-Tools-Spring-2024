@@ -21,7 +21,7 @@ For this analysis, I read in a subset of U.S. Census Current Population Survey d
 
 ```{r}
 # Read in 2005-2024 census data
-projpath<-"C:/Users/dancu/Documents/Software-Tools-Spring-2024/Data_Tables"
+projpath<-"C:/Users/dancu/Documents/GitHub/Software-Tools-Spring-2024/Data_Tables"
 
 ddi <- read_ipums_ddi(file.path(projpath,"cps_00001.xml"))
 data <- read_ipums_micro(ddi)

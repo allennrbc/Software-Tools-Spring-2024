@@ -131,6 +131,8 @@ provided by FRED
 Similarly, when determining if trends in PT are voluntary or forced, we
 can look at other quality of life indicators
 
+![RealWage](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/489e3baa-507d-4355-9868-6c750aaec1df)
+
 ## Health Care Insurance
 
 Here we can compare health care insurance coverage by type. Notice that
@@ -228,6 +230,9 @@ employees have a safe system of work.”
     is "to foster, promote and develop the welfare of working people, to
     improve their working conditions, and to enhance their opportunities
     for profitable employment."
+
+![HealthInsuranceAccess](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/ea2057e3-250f-4cb5-a734-cb3dcd7e7b65)
+
 
 # Employer Practices - history
 

@@ -4,18 +4,17 @@ editor_options:
     wrap: 72
 ---
 
-testing how to commit
+cgch 4/17 updating to include all the work we collaborated on in Google Doc!
 
 # GROUP Project SYNTHESIS (report/script) WIP
 
 ## Introduction
 
-Welcome to Group 1’s Course Project for ADEC 7900 Software Tools for
-Data Analysis.
+Welcome to Group 1’s Course Project for ADEC 7900 Software Tools for Data Analysis.
 
-Over several weeks we considered various research project ideas, each
-playing to our strengths, reading, finding potential data sources, and
-corresponding with potential resources.
+Over several weeks we considered various research project ideas, each playing 
+to our strengths, reading, finding potential data sources, and corresponding with
+potential resources.
 
 By consensus we determined that the best research project topic with the
 greatest potential for available data would be to address a policy maker
@@ -29,13 +28,22 @@ Waldman.
 Ms. Waldman’s forthcoming novel, “Help Wanted,” takes place in a big-box
 store.
 
+In her New York Times column, Waldman writes, "Many people choose to work part time for better work-life balance or to attend school or to care for children or other family members. But many don’t. In recent years, part-time work has become the default at many large chain employers, an involuntary status imposed on large numbers of their lowest-level employees."
+
+To examine this assertion, we referenced employment data from the U.S. Census Current Population Survey. We specifically focused our analysis on workers who reported they "could only find part-time work," as this response to CPS Question "WHYPTLWK Reason for working part time last week" most closely aligned with the concept of involuntary part-time work. We isolated this group who "could only find part-time work" from other respondents who cited many other reasons for part-time work: seasonality, schooling, health or family care, simply not wanting to work full time, etc. 
+
+Given that retail likely has a higher rate of part-time workers, we examined the percentage of involuntary part-time workers  as a percentage of total part-time workers, not as a percentage of total workers in an industry. If an industry has a higher proportion of part-time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part-time workers, which doesn't provide a meaningful insight. Our approach gave us a measure of involuntary part-time work relative to total part-time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
+
+Using this framework, we found that the Retail Industry was a national leader in this classification of involuntary part-time work. This finding provides a strong foundation for Waldman's claim. As data compiled by the ALICE organization shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part-time likely contributes to this problem, and is a potential blind spot in current public policy. The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233 of whom 53% are full-time and 47% are part-time. With our estimation of 415,690 involuntary part-time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability. 
+
+
 ### INSERT two graphs
 
-We can see in these graphs that the Retail Industry dominates the
+These graphs clearly show that the Retail Industry dominates the
 category “Could only find part-time employment” as a “Percent of
-Part-time workers” for the 20 year period 2005 - 2024 and second only to
+Part-time workers” for the 20 year period 2005 - 2024 and is second only to
 “Private households, personal services” for the most recent period
-from2023 to 20024.
+from 2023 to 20024.
 
 ## Reiterate problem with details
 
@@ -43,18 +51,6 @@ But if retail is often the first job for students and frequently just a
 temporary position until they find a “real job” is part-time retail
 employment really a problem? Is part-time retail work an insidious
 problem?
-
-Although we do think of retail as a way station en route to a “real
-career”, according to the National Retail Federation, “As the nation's
-largest private-sector employer, retail supports more than one in four
-U.S. jobs — 52 million working Americans. Retail is everywhere!”
-<https://nrf.com/research-insights/retails-impact#>:\~:text=As%20the%20nation's%20largest%20private,quick%20look%20at%20retail's%20impact.&text=Note%3A%20Updated%20data%20is%20coming%20soon%20in%202024.
-
-According to the US Census Bureau, “Despite the decreases in the number
-and share of retail workers, retail remains a common occupation. In
-2022, 3.1 million workers were retail salespersons and cashiers and
-around 3 million were first-line supervisors of retail sales workers.”
-<https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#>:\~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022.
 
 Drew Abrahamson created this ALICE Economic Viability Dashboard
 <https://www.unitedforalice.org/alice-evd> on Tableau Public
@@ -76,31 +72,6 @@ part-time.
 
 From <https://www.unitedforalice.org/alice-evd>
 
-### insert
-
-There is a significant discrepancy between the NRF data claiming that
-retail supports more than one in four U.S. jobs — 52 million working
-Americans and the Bureau of Labor Statistics Employment of industry
-report:
-
-This is a good concept to raise...this is why I omitted WHYPTLWK "Reason
-for working part time" codes such as "123 School/training" and "120 Too
-busy with house, school, etc" from the numerator of my analysis.
-
-Agreed! Maybe we can put in a short sentence about data for this reason
-was excluded because this is not the group we wanted to explore (not
-necessarily here, but when describing our methods)
-
-### insert BLS graph
-
-From
-<https://www.bls.gov/charts/employment-situation/employment-levels-by-industry.htm>
-Graphics for Economic News Releases, Employment by Industry
-
-I think the explanation of how this impacted the data analysis belongs
-at the end of this section "reiterate problem with details" and Real
-Wage Value and Purchasing Power.
-
 ## Real Wage Value and Purchasing Power
 
 Comparing wages in retail to their real wage value and purchasing power
@@ -117,21 +88,19 @@ Cashiers were among the lowest-paid members of the retail workforce. In
 of all full-time, year-round workers (\$57,216).
 
 We did our own analysis of average real wages using data from FRED and a
-manual calculation to adjust for inflation (insert formula). Per our
-results, real wages for retailers appear to be cyclical and not trending
-in any specific direction."
+manual calculation to adjust for inflation 
+
+### (insert formula). 
+
+Per our results, real wages for retailers appear to be  DELETE cyclical and not trending in any specific direction. AND REPLACE
 
 ### insert a sentence or two more after adjusting the graph to include the ranges for the real wages and the nominal wages
-
-### insert Haylee's graph
-
 Calculating the real wage and purchasing power for each wage data point
 provided by FRED
 
-Similarly, when determining if trends in PT are voluntary or forced, we
-can look at other quality of life indicators
-
 ![RealWage](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/489e3baa-507d-4355-9868-6c750aaec1df)
+
+Similarly, when determining if trends in PT are voluntary or forced, we can look at other quality of life indicators
 
 ## Health Care Insurance
 
@@ -141,6 +110,9 @@ through an employer's group coverage. It includes the Affordable Health
 Care marketplace for insurance ACA coverage.
 
 ### insert table of graphs
+### verify that this VISUALIZATION belongs here... I added several paragraphs.
+![HealthInsuranceAccess](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/ea2057e3-250f-4cb5-a734-cb3dcd7e7b65)
+
 
 # Is this really an insidious problem? How long has this been going on?
 
@@ -157,12 +129,11 @@ only find part-time work, which is the origin of our first graph.
 
 ### NOTES:
 
-The dashed reference line at 5% helps emphasize this. The x-axis is
-marked at 2.5 year intervals.
+The dashed reference line at 5% helps emphasize this. 
+The x-axis is marked at 2.5 year intervals.
 
 ### insert larger graph of retail sector
-
-How did we get here? UPDATE labels on ZOOMED graph and be sure to
+UPDATE labels on ZOOMED graph and be sure to
 include 5% reference line.
 
 # HOW DID WE GET HERE?
@@ -190,37 +161,68 @@ post civil war enforced labor during incarceration, 20th century deadly
 suppression of labor unions, and the current state of lobbying by
 businesses and their representatives.
 
+The most recent piece of legislation from the Department of Labor under the Fair Labor Standards Act replaces the analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.
+
+Should we apply this same analysis which is more consistent with judicial precedent and the Fair Labor Standards Act's text and purpose to part-time employees?
+
+Part-time employees currently have limited access to:
+
+## FMLA 
+The Family and Medical Leave Act (FMLA) covers only larger employers, those with at least 50 employees. And, it covers only employees who meet these three requirements:
+
+ (how did we add hyphens to lists?) You must have worked for your employer for at least a year.
+ (how did we add hyphens to lists?) You must work at a location that has at least 50 of your company's employees within a 75-mile radius.
+ (how did we add hyphens to lists?) You must have worked at least 1,250 hours during the 12 months immediately before you take leave.
+
+# AND If your part-time schedule includes more than 24 hours per week, you will be covered by the law. 
+But, if you haven't worked enough hours yet, don't give up. Your employer is required to tally up your hours as of the day your leave starts, not the day you request leave or give notice that you will need it. It sounds like you also have some leeway as to when to schedule your surgery. This means you can try to increase your hours now so you will meet the 1,250 hours requirement. https://www.nolo.com/legal-encyclopedia/are-part-time-employees-eligible-fmla-leave.html#:~:text=If%20your%20part%2Dtime%20schedule,that%20you%20will%20need%20it.
+
+# 401(k) and 403(b) retirement savings
+The Setting Every Community Up for Retirement Enhancement Act of 2019 (SECURE Act of 2019) and the SECURE 2.0 Act of 2022 (collectively, SECURE) enacted a new mandate that, starting in 2024, long-term, part-time (LTPT) employees must be allowed to make salary deferrals into their employer's 401(k) plan.Jan 10, 2024 https://www.bdo.com/insights/tax/new-requirement-to-cover-long-term-part-time-employees-in-401-k-plans-enters-into-effect#:~:text=The%20Setting%20Every%20Community%20Up,employer's%20401(k)%20plan.
+
+For the full text:
+https://www.finance.senate.gov/imo/media/doc/Secure%202.0_Section%20by%20Section%20Summary%2012-19-22%20FINAL.pdf
+
+# DISABILITY Insurance 
+As of 2024, five US states require employers to provide temporary disability benefits. States with disability insurance laws include California, Hawaii, New Jersey, New York, and Rhode Island.Aug 4, 2023 https://mosey.com/blog/states-with-disability-insurance/#:~:text=requirements%20by%20state-,As%20of%202024%2C%20five%20US%20states%20require%20employers%20to%20provide,New%20York%2C%20and%20Rhode%20Island.
+
+
+# PTO
+In the absence of an applicable state or local law, it's up to the employer to decide whether their part-time employees receive paid time off (PTO) or vacation time, and if so, how much.Jul 31, 2023 https://www.paychex.com/articles/employee-benefits/5-things-about-offering-benefits-for-part-time-employees#:~:text=to%20sporting%20events.-,Do%20Part%2DTime%20Employees%20Get%20PTO%3F,and%20if%20so%2C%20how%20much.
+
+
+
 1.  Employee or Independent Contractor Classification Under the Fair
     Labor Standards Act A Rule by the Wage and Hour Division on
     01/10/2024
     <https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act>
 
-2.  The U.S. Department of Labor is modifying Wage and Hour Division
+    The U.S. Department of Labor is modifying Wage and Hour Division
     regulations to replace its analysis for determining employee or
     independent contractor classification under the Fair Labor Standards
     Act (FLSA or Act) with an analysis that is more consistent with
     judicial precedent and the Act's text and purpose.
 
-United States labor law
-<https://en.wikipedia.org/wiki/United_States_labor_law> last edited
-April 1, 2024 “Over the 20th century, federal law created minimum social
-and economic rights, and encouraged state laws to go beyond the minimum
-to favor employees.[2] The Fair Labor Standards Act of 1938 requires a
-federal minimum wage, currently \$7.25 but higher in 29 states and D.C.,
-and discourages working weeks over 40 hours through time-and-a-half
-overtime pay. There are no federal laws, and few state laws, requiring
-paid holidays or paid family leave. The Family and Medical Leave Act of
-1993 creates a limited right to 12 weeks of unpaid leave in larger
-employers. There is no automatic right to an occupational pension beyond
-federally guaranteed Social Security,[3] but the Employee Retirement
-Income Security Act of 1974 requires standards of prudent management and
-good governance if employers agree to provide pensions, health plans or
-other benefits. The Occupational Safety and Health Act of 1970 requires
-employees have a safe system of work.”
+2. United States labor law
+   <https://en.wikipedia.org/wiki/United_States_labor_law> last edited April 1, 2024
+   “Over the 20th century, federal law created minimum social
+   and economic rights, and encouraged state laws to go beyond the minimum
+   to favor employees.[2] The Fair Labor Standards Act of 1938 requires a
+   federal minimum wage, currently \$7.25 but higher in 29 states and D.C.,
+   and discourages working weeks over 40 hours through time-and-a-half
+   overtime pay. There are no federal laws, and few state laws, requiring
+   paid holidays or paid family leave. The Family and Medical Leave Act of
+   1993 creates a limited right to 12 weeks of unpaid leave in larger
+   employers. There is no automatic right to an occupational pension beyond
+   federally guaranteed Social Security,[3] but the Employee Retirement
+   Income Security Act of 1974 requires standards of prudent management and
+   good governance if employers agree to provide pensions, health plans or
+   other benefits. The Occupational Safety and Health Act of 1970 requires
+   employees have a safe system of work.”
 
 3.  The U.S. Department of Labor
-    <https://www.dol.gov/general/aboutdol/history/dolhistoxford> By
-    Judson MacLaury - The organic act establishing the Department of
+    <https://www.dol.gov/general/aboutdol/history/dolhistoxford>
+    By Judson MacLaury - The organic act establishing the Department of
     Labor was signed on March 4, 1913, by a reluctant President William
     Howard Taft, the defeated and departing incumbent, just hours before
     Woodrow Wilson took office. A Federal Department of Labor was the
@@ -230,10 +232,7 @@ employees have a safe system of work.”
     is "to foster, promote and develop the welfare of working people, to
     improve their working conditions, and to enhance their opportunities
     for profitable employment."
-
-![HealthInsuranceAccess](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/ea2057e3-250f-4cb5-a734-cb3dcd7e7b65)
-
-
+  
 # Employer Practices - history
 
 1.  Every CEO in office will have read one of the HBR succession
@@ -243,67 +242,59 @@ employees have a safe system of work.”
     within can benefit"
     <https://www.umassglobal.edu/news-and-events/blog/promoting-from-within>
 
-Promoting from within can save time and money Internal mobility can help
-with retention and motivation There’s less risk involved with internal
-promotions. Creating a pipeline for full time store personnel to join
-the executive training program should be cost effective. It could also
-generate a good public relations opportunity.
+(how did we add hyphens to lists?) Promoting from within can save time and money 
+(how did we add hyphens to lists?) Internal mobility can help with retention and motivation 
+(how did we add hyphens to lists?) There’s less risk involved with internal promotions. Creating a pipeline for full time store personnel to join the executive training program should be cost effective. It could also generate a good public relations opportunity.
 
 2.  Some of the biggest retailers have offered tuition reimbursement and
     better work schedules including consistency and full-time schedules,
     and then withdrawn those benefits.
 
-Target Is Doing The Right Thing By Investing Heavily In Employees And
-Customers
+Target Is Doing The Right Thing By Investing Heavily In Employees And Customers
 <https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/?sh=54fb8fb15045>
 
-Target raised wages. Then it cut workers' hours and doubled their
-workload
+Target raised wages. Then it cut workers' hours and doubled their workload
 <https://www.forbes.com/sites/shelleykohan/2020/06/18/target-is-doing-the-right-thing-by-investing-heavily-in-employees-and-customers/?sh=54fb8fb15045>
 
 Walmart makes more workers full-time in effort to retain employees
 <https://www.cnbc.com/2021/04/14/walmart-makes-more-workers-full-time-in-effort-to-retain-employees.html>
 
-About Working at Walmart <https://corporate.walmart.com/about>
+About Working at Walmart
+<https://corporate.walmart.com/about>
 
 3.  According to the BLS many retail jobs do not pay a living wage. Our
-    analysis of data from IPUMS.org
-    <https://corporate.walmart.com/about> has found that retail
-    consistently sustains a higher level of part-time workers when
-    compared with other sectors.
+    analysis of data from IPUMS.org <https://corporate.walmart.com/about>
+    has found that retail consistently sustains a higher level of part-time workers when compared with other sectors.
 
 # Openings and Quit Rates in Sector by Month
 
-HELP - I need a spark Brain storming Can we assume that people who quit
-are dissatisfied? Should we assume people leave a job for a better
-opportunity? Is much of this turn over due to poaching and headhunting?
-How do I tie this together to connect the CEO HBR succession planning
-with the dissatisfied part time employee who is struggling to pay their
-bills, care for their family and secure appropriate health care
-benefits?
+# HELP - I need a spark 
+Brain storming 
+Can we assume that people who quit are dissatisfied? 
+Should we assume people leave a job for a better opportunity? 
+Is much of this turn over due to poaching and headhunting?
 
-From Dan’s report Over the past year, Retail has maintained a high
-percentage of workers who are forced to work part-time because they
-could only find part-time work. Retail also has relatively low Job
-Openings and a higher Quit Rate. We can continue to analyze these
-dynamics.
+How do I tie this together to connect the CEO HBR succession planning with the dissatisfied part time employee who is struggling to pay their bills, care for their family and secure appropriate health care benefits?
+
+# Dan adding image from 2022 McKinsey consulting survey
+
+Over the past year, Retail has maintained a high percentage of workers who are forced to work part-time because they could only find part-time work. Retail also has relatively low Job Openings
+and a higher Quit Rate. We can continue to analyze these dynamics.
 
 ### insert 2 bar graphs Job Openings and Quit Rates
 
-Retailers do have cyclical hiring patterns and many young people depend
-on seasonal work for SUMMER and end of year HOLIDAY jobs.
+# DELETE ? Retailers do have cyclical hiring patterns and many young people depend on seasonal work for SUMMER and end of year HOLIDAY jobs.
 
-### insert Haylee's Open and Quit rates by sector by month
+### insert Rans's Open and Quit rates by month
 
-What else can we see when the opening and quit rates are reported side
-by side for each month?
+# Can we see anything else when the opening and quit rates are reported side by side for each month?
 
 # Our key takeaways
 
-The US Census Bureau <https://corporate.walmart.com/about> reports that
-“the relative number of U.S. retail workers remained over 9 million, but
-their share of the total workforce fell from 6.9% in 2010 to 5.6% in
-2022.”
+The US Census Bureau <https://corporate.walmart.com/about> 
+reports that “the relative number of U.S. retail workers remained over 
+9 million, but their share of the total workforce fell from 6.9% in 2010 
+to 5.6% in 2022.”
 
 In 2023-2024 data retail represents 5% of all part-time labor which is
 down from 8% for 2005-2024
@@ -327,23 +318,38 @@ remains significant.
 
 # Conclusions or Recommendations?
 
-What (if any) work is there still to be done?
+Northeastern Professor Dennis R. Shaughnessy corrects the oft misquoted  “The business of America is business!”   Actually, President Coolidge said that the “chief business of the American people is business.”  It appears then that the original idea behind Coolidge’s idea was indeed to praise business leaders and the business community for driving the economic prosperity of America and its people.  But it also appears that he did not believe that business alone, or self-interest and wealth accumulation, are what drives Americans and our society forward.  Rather, it is the higher ideals such as peace, honor and charity that make up the core of American values. … As I reflect back on the words of President Coolidge, President Reagan and our President Trump, I hope that the idea of being “pro-business” is not interpreted narrowly to require a diminishment of social commitments. Accessed on September 19, 2018. From https://www.northeastern.edu/sei/2017/02/the-business-of-america-is-business/
 
-Even if we determine that this retail industry practice of hiring
+# What (if any) work is there still to be done?
+
+We have determined that this retail industry practice of hiring
 part-time workers and then subjecting them to dynamic schedules which
 confounds a worker’s ability to manage caring for family or scheduling a
 second job, and then choosing to hire more part-time workers rather than
-increasing the work hours of existing staff is truly insidious
+increasing the work hours of existing staff is truly insidious.
 
 ## WHAT ARE WE GOING TO RECOMMEND?
 
-Do we want to pursue ACA Full Time Equivalent calculations and suggest
+
+1. Do we want to pursue ACA Full Time Equivalent calculations and suggest
 that companies with a threshold of full time hours convert workers from
 part time status to full time with benefits?
 
-Do we want to target states that have lower rates of health care
+2. Can we apply analysis of independent contractors to part-time employees to be more consistent with judicial precedent and the Fair Labor Standards Act's text and purpose as enacted?
+
+See
+
+Employee or Independent Contractor Classification Under the Fair Labor Standards Act
+A Rule by the Wage and Hour Division on 01/10/2024 
+https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act
+	
+‘The U.S. Department of Labor is modifying Wage and Hour Division regulations to replace its analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.’
+
+3. Do we want to target states that have lower rates of health care
 benefits like Texas, Mississippi, and Nevada and examine how they
 implemented the Affordable Care Act?
+
+This is an interesting pair of graphs from the Centers for Medicare and Medicade Services, https://www.cms.gov/
 
 Actual 2022 and Anticipated 2024
 

@@ -98,7 +98,7 @@ Per our results, real wages for retailers appear to be  DELETE cyclical and not 
 Calculating the real wage and purchasing power for each wage data point
 provided by FRED
 
-![RealWage](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/489e3baa-507d-4355-9868-6c750aaec1df)
+![RealWage](Images/RealWage.PNG)
 
 Similarly, when determining if trends in PT are voluntary or forced, we can look at other quality of life indicators
 
@@ -111,7 +111,7 @@ Care marketplace for insurance ACA coverage.
 
 ### insert table of graphs
 ### verify that this VISUALIZATION belongs here... I added several paragraphs.
-![HealthInsuranceAccess](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/ea2057e3-250f-4cb5-a734-cb3dcd7e7b65)
+![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
 
 # Is this really an insidious problem? How long has this been going on?

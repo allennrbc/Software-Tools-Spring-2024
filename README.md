@@ -37,7 +37,8 @@ Given that retail likely has a higher rate of part-time workers, we examined the
 Using this framework, we found that the Retail Industry was a national leader in this classification of involuntary part-time work. This finding provides a strong foundation for Waldman's claim. As data compiled by the ALICE organization shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part-time likely contributes to this problem, and is a potential blind spot in current public policy. The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233 of whom 53% are full-time and 47% are part-time. With our estimation of 415,690 involuntary part-time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability. 
 
 
-### INSERT two graphs
+![CouldOnlyFindPTByIndustry](Images/CouldOnlyFindPTByIndustry.PNG)
+![CouldOnlyFindPTRetail](Images/CouldOnlyFindPTRetail.PNG)
 
 These graphs clearly show that the Retail Industry dominates the
 category “Could only find part-time employment” as a “Percent of

@@ -4,7 +4,7 @@ editor_options:
     wrap: 72
 ---
 
-testing how to commit
+# CAN BE DELETED
 
 # GROUP Project SYNTHESIS (report/script) WIP
 

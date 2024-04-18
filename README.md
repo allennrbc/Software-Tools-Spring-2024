@@ -39,6 +39,10 @@ Using this framework, we found that the Retail Industry was a national leader in
 
 ![CouldOnlyFindPTByIndustry](Images/CouldOnlyFindPTByIndustry.PNG)
 ![CouldOnlyFindPTRetail](Images/CouldOnlyFindPTRetail2.png)
+![CouldOnlyFIndPT](Images/CouldOnlyFIndPT.PNG)
+![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG) 
+![JobOpeningRate](Images/JobOpeningRate.PNG)
+![JobQuitRate](Images/JobQuitRate.PNG)
 
 These graphs clearly show that the Retail Industry dominates the
 category “Could only find part-time employment” as a “Percent of

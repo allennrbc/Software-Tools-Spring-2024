@@ -118,7 +118,7 @@ Care marketplace for insurance ACA coverage.
 ### verify that this VISUALIZATION belongs here... I added several paragraphs.
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-The Patient Protection and Affordable Care Act1 (ACAt) became law on March 23, 2010 and since then, the amount of unisured individuals as decreased, which the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
+The Patient Protection and Affordable Care Act1 (ACA) became law on March 23, 2010 and since then, the amount of unisured individuals as decreased, which the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
 # Is this really an insidious problem? How long has this been going on?
 
 We looked at the last 20 years, creating a Time Series by Industry for

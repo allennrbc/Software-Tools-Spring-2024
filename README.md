@@ -91,9 +91,9 @@ of all full-time, year-round workers (\$57,216).
 We did our own analysis of average real wages using data from FRED and a
 manual calculation to adjust for inflation 
 
-### (insert formula). 
+Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
 
-Per our results, real wages for retailers appear to be  DELETE cyclical and not trending in any specific direction. AND REPLACE
+Per our results, real wages for retailers appear to have decreased from around 2006 to 2011 and then began increasing until the COVID-19 Pandemic beginning in 2020.  
 
 ### insert a sentence or two more after adjusting the graph to include the ranges for the real wages and the nominal wages
 Calculating the real wage and purchasing power for each wage data point
@@ -114,7 +114,7 @@ Care marketplace for insurance ACA coverage.
 ### verify that this VISUALIZATION belongs here... I added several paragraphs.
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-
+The Patient Protection and Affordable Care Act1 (ACAt) became law on March 23, 2010 and since then, the amount of unisured individuals as decreased, which the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
 # Is this really an insidious problem? How long has this been going on?
 
 We looked at the last 20 years, creating a Time Series by Industry for
@@ -175,6 +175,11 @@ The Family and Medical Leave Act (FMLA) covers only larger employers, those with
  (how did we add hyphens to lists?) You must work at a location that has at least 50 of your company's employees within a 75-mile radius.
  (how did we add hyphens to lists?) You must have worked at least 1,250 hours during the 12 months immediately before you take leave.
 
+The act provides employees who meet these requirements with up to 12 weeks of unpaid, job-protected leave per year. FMLA was passed in 1993. Per our analysis, the  percentage of employees with access to unpaid family leave rose to 84% in 1995 and has only increased five percentage points since then. Access to paid family leave, however, has grown from 2% in 1995 to 27% in 2023. Similar data was not found for years prior to 1993, however, the Bureau of Labor Statistics did provide the percent of private industry workers in medium and large establishment participating in unpaid leave benefits. This data showed that percent of workers using unpaid maternity leave increased from 33% in 1988 to 60% in 1993 and an even larger increase was seen for workers using unpaid paternity leave as the percentage increased from 16% to 53% in the same years.
+
+ ![AccessToFL](Images/AccessToFL.PNG)
+ ![FL88to93](Images/FL88to93.PNG)
+
 # AND If your part-time schedule includes more than 24 hours per week, you will be covered by the law. 
 But, if you haven't worked enough hours yet, don't give up. Your employer is required to tally up your hours as of the day your leave starts, not the day you request leave or give notice that you will need it. It sounds like you also have some leeway as to when to schedule your surgery. This means you can try to increase your hours now so you will meet the 1,250 hours requirement. https://www.nolo.com/legal-encyclopedia/are-part-time-employees-eligible-fmla-leave.html#:~:text=If%20your%20part%2Dtime%20schedule,that%20you%20will%20need%20it.
 
@@ -233,7 +238,9 @@ In the absence of an applicable state or local law, it's up to the employer to d
     is "to foster, promote and develop the welfare of working people, to
     improve their working conditions, and to enhance their opportunities
     for profitable employment."
-  
+    
+   ![PTO](Images/PTO.PNG)
+   
 # Employer Practices - history
 
 1.  Every CEO in office will have read one of the HBR succession

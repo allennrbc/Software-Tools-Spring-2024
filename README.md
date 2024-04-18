@@ -41,8 +41,7 @@ Using this framework, we found that the Retail Industry was a national leader in
 ![CouldOnlyFindPTRetail](Images/CouldOnlyFindPTRetail2.png)
 ![CouldOnlyFIndPT](Images/CouldOnlyFIndPT.PNG)
 ![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG) 
-![JobOpeningRate](Images/JobOpeningRate.PNG)
-![JobQuitRate](Images/JobQuitRate.PNG)
+
 
 These graphs clearly show that the Retail Industry dominates the
 category “Could only find part-time employment” as a “Percent of
@@ -104,6 +103,8 @@ Calculating the real wage and purchasing power for each wage data point
 provided by FRED
 
 ![RealWage](Images/RealWage.PNG)
+![AvgHourlyEarnings](Images/AvgHourlyEarnings.PNG)
+
 
 Similarly, when determining if trends in PT are voluntary or forced, we can look at other quality of life indicators
 
@@ -118,7 +119,7 @@ Care marketplace for insurance ACA coverage.
 ### verify that this VISUALIZATION belongs here... I added several paragraphs.
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-The Patient Protection and Affordable Care Act1 (ACA) became law on March 23, 2010 and since then, the amount of unisured individuals as decreased, which the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
+The Patient Protection and Affordable Care Act1 (ACA) became law on March 23, 2010 and since then, the amount of unisured individuals as decreased, while the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
 # Is this really an insidious problem? How long has this been going on?
 
 We looked at the last 20 years, creating a Time Series by Industry for
@@ -175,11 +176,11 @@ Part-time employees currently have limited access to:
 ## FMLA 
 The Family and Medical Leave Act (FMLA) covers only larger employers, those with at least 50 employees. And, it covers only employees who meet these three requirements:
 
- (how did we add hyphens to lists?) You must have worked for your employer for at least a year.
- (how did we add hyphens to lists?) You must work at a location that has at least 50 of your company's employees within a 75-mile radius.
- (how did we add hyphens to lists?) You must have worked at least 1,250 hours during the 12 months immediately before you take leave.
+ + You must have worked for your employer for at least a year.
+ + You must work at a location that has at least 50 of your company's employees within a 75-mile radius.
+ + You must have worked at least 1,250 hours during the 12 months immediately before you take leave.
 
-The act provides employees who meet these requirements with up to 12 weeks of unpaid, job-protected leave per year. FMLA was passed in 1993. Per our analysis, the  percentage of employees with access to unpaid family leave rose to 84% in 1995 and has only increased five percentage points since then. Access to paid family leave, however, has grown from 2% in 1995 to 27% in 2023. Similar data was not found for years prior to 1993, however, the Bureau of Labor Statistics did provide the percent of private industry workers in medium and large establishment participating in unpaid leave benefits. This data showed that percent of workers using unpaid maternity leave increased from 33% in 1988 to 60% in 1993 and an even larger increase was seen for workers using unpaid paternity leave as the percentage increased from 16% to 53% in the same years.
+The act provides employees who meet these requirements with up to 12 weeks of unpaid, job-protected leave per year. FMLA was passed in 1993. Per our analysis, the  percentage of employees with access to unpaid family leave was 84% in 1995 and has only increased five percentage points since then. Access to paid family leave, however, has grown from 2% in 1995 to 27% in 2023. Similar data was not found for years prior to 1993, however, the Bureau of Labor Statistics did provide the percent of private industry workers in medium and large establishment participating in unpaid leave benefits. This data showed that percent of workers using unpaid maternity leave increased from 33% in 1988 to 60% in 1993 and an even larger increase was seen for workers using unpaid paternity leave as the percentage increased from 16% to 53% in the same years. The impact could be socially driven, but it does appear that in the years following the FLMA act, most employees have had access to unpaid family leave.
 
  ![AccessToFL](Images/AccessToFL.PNG)
  ![FL88to93](Images/FL88to93.PNG)
@@ -187,13 +188,13 @@ The act provides employees who meet these requirements with up to 12 weeks of un
 # AND If your part-time schedule includes more than 24 hours per week, you will be covered by the law. 
 But, if you haven't worked enough hours yet, don't give up. Your employer is required to tally up your hours as of the day your leave starts, not the day you request leave or give notice that you will need it. It sounds like you also have some leeway as to when to schedule your surgery. This means you can try to increase your hours now so you will meet the 1,250 hours requirement. https://www.nolo.com/legal-encyclopedia/are-part-time-employees-eligible-fmla-leave.html#:~:text=If%20your%20part%2Dtime%20schedule,that%20you%20will%20need%20it.
 
-# 401(k) and 403(b) retirement savings
+# 401(k) and 403(b) retirement savings - Recommend removing as we did not do any analysis on this (HA)
 The Setting Every Community Up for Retirement Enhancement Act of 2019 (SECURE Act of 2019) and the SECURE 2.0 Act of 2022 (collectively, SECURE) enacted a new mandate that, starting in 2024, long-term, part-time (LTPT) employees must be allowed to make salary deferrals into their employer's 401(k) plan.Jan 10, 2024 https://www.bdo.com/insights/tax/new-requirement-to-cover-long-term-part-time-employees-in-401-k-plans-enters-into-effect#:~:text=The%20Setting%20Every%20Community%20Up,employer's%20401(k)%20plan.
 
 For the full text:
 https://www.finance.senate.gov/imo/media/doc/Secure%202.0_Section%20by%20Section%20Summary%2012-19-22%20FINAL.pdf
 
-# DISABILITY Insurance 
+# DISABILITY Insurance - Recommend removing as we did not do any analysis on this (HA)
 As of 2024, five US states require employers to provide temporary disability benefits. States with disability insurance laws include California, Hawaii, New Jersey, New York, and Rhode Island.Aug 4, 2023 https://mosey.com/blog/states-with-disability-insurance/#:~:text=requirements%20by%20state-,As%20of%202024%2C%20five%20US%20states%20require%20employers%20to%20provide,New%20York%2C%20and%20Rhode%20Island.
 
 
@@ -294,6 +295,8 @@ Over the past year, Retail has maintained a high percentage of workers who are f
 and a higher Quit Rate. We can continue to analyze these dynamics.
 
 ### insert 2 bar graphs Job Openings and Quit Rates
+![JobOpeningRate](Images/JobOpeningRate.PNG)
+![JobQuitRate](Images/JobQuitRate.PNG)
 
 # DELETE ? Retailers do have cyclical hiring patterns and many young people depend on seasonal work for SUMMER and end of year HOLIDAY jobs.
 
@@ -346,8 +349,9 @@ increasing the work hours of existing staff is truly insidious.
 1. Do we want to pursue ACA Full Time Equivalent calculations and suggest
 that companies with a threshold of full time hours convert workers from
 part time status to full time with benefits?
++ (HA) Suggest this is what we propose
 
-2. Can we apply analysis of independent contractors to part-time employees to be more consistent with judicial precedent and the Fair Labor Standards Act's text and purpose as enacted?
+3. Can we apply analysis of independent contractors to part-time employees to be more consistent with judicial precedent and the Fair Labor Standards Act's text and purpose as enacted?
 
 See
 

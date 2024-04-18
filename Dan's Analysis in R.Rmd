@@ -141,7 +141,8 @@ ggplot(data_summary6, aes(x=date, y=involPctofPT))+geom_line()+facet_wrap(~ str_
 ```{r}
 data_summary6 %>% filter(Industry=="Retail Trade") %>%
 ggplot(data=., aes(x=date, y=involPctofPT))+geom_line()+
-  labs(title = "Could only Find Part-Time Work", subtitle="% of Part-Time Retail Workers: 2005-2024",x="Year", y="% of Part-Time Workers")
+  labs(title = "Could only Find Part-Time Work", subtitle="% of Part-Time Workers by Industry (Retail): 2005-2024",x="Year", y="% of Part-Time Workers")+
+geom_hline(yintercept = 5, linetype = "dashed", color = "red")
 ```
 
 #### Look at mean values during full time period

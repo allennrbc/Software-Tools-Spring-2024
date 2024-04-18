@@ -49,13 +49,6 @@ Part-time workers” for the 20 year period 2005 - 2024 and is second only to
 “Private households, personal services” for the most recent period
 from 2023 to 20024.
 
-## Reiterate problem with details
-
-But if retail is often the first job for students and frequently just a
-temporary position until they find a “real job” is part-time retail
-employment really a problem? Is part-time retail work an insidious
-problem?
-
 Drew Abrahamson created this ALICE Economic Viability Dashboard
 <https://www.unitedforalice.org/alice-evd> on Tableau Public
 <https://public.tableau.com/app/profile/drew7327/viz/EVD_working/EVD-Page1>
@@ -119,7 +112,8 @@ Care marketplace for insurance ACA coverage.
 ### verify that this VISUALIZATION belongs here... I added several paragraphs.
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-The Patient Protection and Affordable Care Act1 (ACA) became law on March 23, 2010 and since then, the amount of unisured individuals as decreased, while the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
+The Patient Protection and Affordable Care Act1 (ACA) became law on March 23, 2010 and since then, the amount of unisured individuals has decreased, while the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
+
 # Is this really an insidious problem? How long has this been going on?
 
 We looked at the last 20 years, creating a Time Series by Industry for

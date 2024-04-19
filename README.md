@@ -108,8 +108,6 @@ Here we can compare health care insurance coverage by type. Notice that
 through an employer's group coverage. It includes the Affordable Health
 Care marketplace for insurance ACA coverage.
 
-### insert table of graphs
-### verify that this VISUALIZATION belongs here... I added several paragraphs.
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
 The Patient Protection and Affordable Care Act1 (ACA) became law on March 23, 2010 and since then, the amount of unisured individuals has decreased, while the amount of those insured by Medicaid and Medicare have mostly trended upward. Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of unisured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation. 
@@ -122,19 +120,8 @@ part-time work fluctuates similarly across most industries (data
 provided by IPUMS.org; see Appendix 1 with a link to our RPubs
 publication).
 
-### insert table of graphs for all sectors
-
 The Retail Industry appears to sustain a higher level of workers who can
 only find part-time work, which is the origin of our first graph.
-
-### NOTES:
-
-The dashed reference line at 5% helps emphasize this. 
-The x-axis is marked at 2.5 year intervals.
-
-### insert larger graph of retail sector
-UPDATE labels on ZOOMED graph and be sure to
-include 5% reference line.
 
 # HOW DID WE GET HERE?
 
@@ -194,6 +181,7 @@ As of 2024, five US states require employers to provide temporary disability ben
 
 # PTO
 In the absence of an applicable state or local law, it's up to the employer to decide whether their part-time employees receive paid time off (PTO) or vacation time, and if so, how much.Jul 31, 2023 https://www.paychex.com/articles/employee-benefits/5-things-about-offering-benefits-for-part-time-employees#:~:text=to%20sporting%20events.-,Do%20Part%2DTime%20Employees%20Get%20PTO%3F,and%20if%20so%2C%20how%20much.
+
 
 
 
@@ -273,8 +261,6 @@ About Working at Walmart
     analysis of data from IPUMS.org <https://corporate.walmart.com/about>
     has found that retail consistently sustains a higher level of part-time workers when compared with other sectors.
 
-# Openings and Quit Rates in Sector by Month
-
 # HELP - I need a spark 
 Brain storming 
 Can we assume that people who quit are dissatisfied? 
@@ -292,9 +278,7 @@ and a higher Quit Rate. We can continue to analyze these dynamics.
 ![JobOpeningRate](Images/JobOpeningRate.PNG)
 ![JobQuitRate](Images/JobQuitRate.PNG)
 
-# DELETE ? Retailers do have cyclical hiring patterns and many young people depend on seasonal work for SUMMER and end of year HOLIDAY jobs.
-
-### insert Rans's Open and Quit rates by month
+### Do we want the opening and quit rates by month here?
 
 # Can we see anything else when the opening and quit rates are reported side by side for each month?
 
@@ -345,15 +329,7 @@ that companies with a threshold of full time hours convert workers from
 part time status to full time with benefits?
 + (HA) Suggest this is what we propose
 
-3. Can we apply analysis of independent contractors to part-time employees to be more consistent with judicial precedent and the Fair Labor Standards Act's text and purpose as enacted?
-
-See
-
-Employee or Independent Contractor Classification Under the Fair Labor Standards Act
-A Rule by the Wage and Hour Division on 01/10/2024 
-https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act
-	
-‘The U.S. Department of Labor is modifying Wage and Hour Division regulations to replace its analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.’
+2. Can we apply analysis of independent contractors to part-time employees to be more consistent with judicial precedent and the Fair Labor Standards Act's text and purpose as enacted?
 
 3. Do we want to target states that have lower rates of health care
 benefits like Texas, Mississippi, and Nevada and examine how they

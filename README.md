@@ -46,7 +46,7 @@ Using this framework, we found that the Retail Industry was a national leader in
 These graphs clearly show that the Retail Industry dominates the
 category “Could only find part-time employment” as a “Percent of
 Part-time workers” for the 20 year period 2005 - 2024 and is second only to
-“Private households, personal services” for the most recent period
+“Mining” for the most recent period
 from 2023 to 20024.
 
 Drew Abrahamson created this ALICE Economic Viability Dashboard

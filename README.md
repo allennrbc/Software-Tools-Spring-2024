@@ -1,4 +1,4 @@
-![image](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/f363fd95-43e6-41a9-b56a-645129e1ad67)---
+---
 editor_options: 
   markdown: 
     wrap: 72

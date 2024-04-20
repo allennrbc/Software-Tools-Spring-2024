@@ -1,4 +1,4 @@
----
+![image](https://github.com/allennrbc/Software-Tools-Spring-2024/assets/95391243/f363fd95-43e6-41a9-b56a-645129e1ad67)---
 editor_options: 
   markdown: 
     wrap: 72
@@ -96,6 +96,8 @@ Calculating the real wage and purchasing power for each wage data point
 provided by FRED
 
 ![RealWage](Images/RealWage.PNG)
+
+Additionally, The Fair Labor and Standards Act provides additional requirements for companies to further establish employee protections. The act specifically establishes minimum wage, overtime pay, recordkeeping, and youth employment standards. Per data from FRED the average hourly earnings of all employees in retail trade had only minor increases between 2007 and 2009 when the minimum wage was increased three times. Starting in 2010, the average wage for employees in retail has increase more dramatically. Since the last increase in the federal minimum wage was on July 24, 2009, this analysis indicates that minimum wage laws may have less of an effect on the hourly wage for retail employees than other sources. 
 ![AvgHourlyEarnings](Images/AvgHourlyEarnings.PNG)
 
 

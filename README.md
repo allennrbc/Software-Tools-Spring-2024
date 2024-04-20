@@ -282,7 +282,7 @@ and a higher Quit Rate. We can continue to analyze these dynamics.
 
 # Can we see anything else when the opening and quit rates are reported side by side for each month?
 
-In a [2022 McKinsey & Company survey of frontline retail employees](https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-attract-and-retain-frontline-talent-amid-the-great-attrition), lack of workplace flexibility (which includes unpredictable scheduling) is cited as the top reason retail employees consider leaving their jobs. This aligns with the picture painted by Adelle Waldman: "Some weeks we'd be scheduled for as little as a single four-hour shift; other weeks we'd be asked to do overnights and work as many as 39 hours (never 40, presumably because the company didn't want to come anywhere close to having to pay overtime)...The unpredictability of the hours made life difficult for my co-workers..."
+In a [2022 McKinsey & Company survey of frontline retail employees](https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-attract-and-retain-frontline-talent-amid-the-great-attrition), lack of workplace flexibility (which includes unpredictable scheduling) is cited as the top reason retail employees considered leaving their jobs. This aligns with the picture painted by Adelle Waldman: "Some weeks we'd be scheduled for as little as a single four-hour shift; other weeks we'd be asked to do overnights and work as many as 39 hours (never 40, presumably because the company didn't want to come anywhere close to having to pay overtime)...The unpredictability of the hours made life difficult for my co-workers..."
 
 ![McKinsey](Images/McKinsey.PNG)
 

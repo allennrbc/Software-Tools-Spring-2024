@@ -271,8 +271,6 @@ Is much of this turn over due to poaching and headhunting?
 
 How do I tie this together to connect the CEO HBR succession planning with the dissatisfied part time employee who is struggling to pay their bills, care for their family and secure appropriate health care benefits?
 
-# Dan adding image from 2022 McKinsey consulting survey
-
 Over the past year, Retail has maintained a high percentage of workers who are forced to work part-time because they could only find part-time work. Retail also has relatively low Job Openings
 and a higher Quit Rate. We can continue to analyze these dynamics.
 
@@ -283,6 +281,11 @@ and a higher Quit Rate. We can continue to analyze these dynamics.
 ### Do we want the opening and quit rates by month here?
 
 # Can we see anything else when the opening and quit rates are reported side by side for each month?
+
+In a 2022 McKinsey & Company survey of frontline retail employees, lack of workplace flexibility (which includes unpredictable scheduling) is cited as the top reason retail employees consider leaving their jobs. This aligns with the picture painted by Adelle Waldman: "Some weeks we'd be scheduled for as little as a single four-hour shift; other weeks we'd be asked to do overnights and work as many as 39 hours (never 40, presumably because the company didn't want to come anywhere close to having to pay overtime)...The unpredictability of the hours made life difficult for my co-workers..."
+
+![McKinsey](Images/McKinsey.PNG)
+
 
 # Our key takeaways
 

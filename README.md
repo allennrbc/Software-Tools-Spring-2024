@@ -32,7 +32,7 @@ In her New York Times column, Waldman writes, "Many people choose to work part t
 
 To examine this assertion, we referenced employment data from the U.S. Census Current Population Survey. We specifically focused our analysis on workers who reported they "could only find part-time work," as this response to CPS Question "WHYPTLWK Reason for working part time last week" most closely aligned with the concept of involuntary part-time work. We isolated this group who "could only find part-time work" from other respondents who cited many other reasons for part-time work: seasonality, schooling, health or family care, simply not wanting to work full time, etc. 
 
-Given that retail likely has a higher rate of part-time workers, we examined the percentage of involuntary part-time workers  as a percentage of total part-time workers, not as a percentage of total workers in an industry. If an industry has a higher proportion of part-time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part-time workers, which doesn't provide a meaningful insight. Our approach gave us a measure of involuntary part-time work relative to total part-time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
+Given that retail likely has a higher rate of part-time workers, we examined the percentage of involuntary part-time workers  as a percentage of total part-time workers, not as a percentage of total workers in an industry. If an industry has a higher proportion of part-time vs. full-time laborers, then they will probably demonstrate a higher proportion of most part-time subcategories, which doesn't provide a meaningful insight. Our approach gave us a measure of involuntary part-time work relative to total part-time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
 
 Using this framework, we found that the Retail Industry was a national leader in this classification of involuntary part-time work. This finding provides a strong foundation for Waldman's claim. As data compiled by the ALICE organization shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part-time likely contributes to this problem, and is a potential blind spot in current public policy. The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233 of whom 53% are full-time and 47% are part-time. With our estimation of 415,690 involuntary part-time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability. 
 
@@ -47,7 +47,7 @@ These graphs clearly show that the Retail Industry dominates the
 category “Could only find part-time employment” as a “Percent of
 Part-time workers” for the 20 year period 2005 - 2024 and is second only to
 “Mining” for the most recent period
-from 2023 to 20024.
+from 2023 to 2024.
 
 Drew Abrahamson created this ALICE Economic Viability Dashboard
 <https://www.unitedforalice.org/alice-evd> on Tableau Public

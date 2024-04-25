@@ -1,4 +1,6 @@
-### draft report, script
+### This is an interim draft between checkpoints 1 and 2
+
+Do we want to create a branch called ATTIC to house old work until we are confident about deleting?
 
 ## Welcome to Group 1’s Course Project for ADEC 7900 Software Tools for Data Analysis.
 

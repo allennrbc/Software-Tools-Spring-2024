@@ -20,7 +20,13 @@ store.
 
 In her New York Times column, Waldman writes, "Many people choose to work part time for better work-life balance or to attend school or to care for children or other family members. But many don’t. In recent years, part-time work has become the default at many large chain employers, an involuntary status imposed on large numbers of their lowest-level employees."
 
-## Here we might want to start adding how we built these graphs (what variables were used, what was taken out, etc). I think we can break down the data summary and the data analytics for the two types of data we did: Dan's analysis on census data and my analysis on policies providing benefits
+
+## Data Summary - Dan, can you add the description for the data you used?
+
+### Additional Data
+We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. 
+
+## Analysis
 If an industry has a higher proportion of part-time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part-time workers, which doesn't provide a meaningful insight. To confirm whether retail has a higher rate of part-time workers, we examined the percentage of involuntary part-time workers as a percentage of total part-time workers rather than as a percentage of total workers in an industry. Our approach gave us a measure of involuntary part-time work relative to total part-time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
 
 ![CouldOnlyFindPTByIndustry](Images/CouldOnlyFindPTByIndustry.PNG)
@@ -31,7 +37,7 @@ To examine this assertion, we referenced employment data from the U.S. Census Cu
 
 Using this framework, we found that the Retail Industry was a national leader in this classification of involuntary part-time work. This finding provides a strong foundation for Waldman's claim. 
 
-![CouldOnlyFindPTRetail2](Images/CouldOnlyFindPTRetail2.PNG)
+![CouldOnlyFindPTRetail2](Images/CouldOnlyFindPTRetail2.png)
 
 Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part-time likely contributes to this problem, and is a potential blind spot in current public policy. 
 
@@ -48,7 +54,7 @@ Per data from the Federal Reserve Economic Data (FRED) between 2005-2024, the pe
 
 ![FREDTotalUnemp](Images/FREDTotalUnemp.PNG)
 
-## A VERY BRIEF HISTORY of US Labor Policy 
+### A VERY BRIEF HISTORY of US Labor Policy 
 
 Based on our analysis and additional data found, the retail industry does appear to be hiring part-time workers in a manner that prevents employees from obtaining benefits or a predictable schedule which in return, affects quality of life. To determine how this could be changes we reviewed US legislation that aimed to provide benefits which improved the quality of life for citizens. The US has a long history of entrepreneurship and an equally long history of legislation favoring business and property owners over labor.
 From the earliest indentured servants and slaves, through 19th century post civil war enforced labor during incarceration, 20th century deadly suppression of labor unions, and the current state of lobbying by businesses and their representatives.
@@ -75,9 +81,10 @@ The most recent piece of legislation from the Department of Labor under the Fair
 The Family and Medical Leave Act (FMLA) covers only larger employers with at least 50 employees. 
 And, it covers only employees who meet these three requirements:
 
-! You must have worked for your employer for at least a year.
-! You must work at a location that has at least 50 of your company's employees within a 75-mile radius.
-! You must have worked at least 1,250 hours during the 12 months immediately before you take leave.
+* You must have worked for your employer for at least a year.
+* You must work at a location that has at least 50 of your company's employees within a 75-mile radius.
+* You must have worked at least 1,250 hours during the 12 months immediately before you take leave.
+
 
 The act provides employees who meet these requirements with up to 12 weeks of unpaid, job-protected leave per year. FMLA was passed in 1993. 
 
@@ -100,7 +107,7 @@ We used data on access to PTO published by the Bureau of Labor statistics. The d
 
 ![PTO](Images/PTO.PNG)
 
-## Real Wage Value and Purchasing Power
+### Real Wage Value and Purchasing Power
 To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. According to the Bureau of Labor Statics May 2023, category 41-2031 Retail Salespersons sell merchandise, such as furniture, motor vehicles, appliances, or apparel to consumers average wage $36,690. Excludes “Cashiers” (41-2011). Whereas according to the Census Bureau, Cashiers were among the lowest-paid members of the retail workforce. In 2023, their median earnings ($30,710) were around 47% less than those of all full-time, year-round workers ($57,216).
 
 We did our own analysis of average real wages using Federal Reserve Economic Data on the average wage for retail workers and the consumer price index for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
@@ -117,7 +124,7 @@ Per data from FRED the average hourly earnings of all employees in retail trade 
 
 For our purposes in deciding whether or not to establish a policy requiring a minimum percentage of full-time employees, analysis of minimum wages suggests policy would not be the driving force behind significant change in employer hiring practices.
 
-## Health Care
+### Health Care
 Similarly, when determining if trends in PT are voluntary or forced, we can look at other quality of life indicators. 
 
 Here we can compare health care insurance coverage by type. Notice that “non-group” reports insurance purchased independently rather than through an employer's group coverage. It includes the Affordable Health Care marketplace for ACA health insurance coverage and the data was provided by KFF, an independent provider of health policy research, polling, and journalism.
@@ -130,67 +137,62 @@ Since the goal of the ACA was to allow access to healthcare for all Americans, a
 
 Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation.
 
-# HA - Stopped here for the night
-
-##### slide 21
-## Employer Practices - recent history
+### Employer Practices - recent history
 
 1. Every CEO in office will have read one of the Harvard Business Review’s succession planning Case Studies and understands the UMass Global article "Three Ways businesses that [promoting] from within can benefit [employers]"
    
-! Promoting from within can save time and money
-! Internal mobility can help with retention and motivation
-! There’s less risk involved with internal promotions. Creating a pipeline for full time store personnel to join the executive training program should be cost effective. It could also generate a good public relations opportunity.
+* Promoting from within can save time and money
+* Internal mobility can help with retention and motivation
+* There’s less risk involved with internal promotions. Creating a pipeline for full time store personnel to join the executive training program should be cost effective. It could also generate a good public relations opportunity.
 
-##### slide 22
 2. Some of the biggest retailers have offered tuition reimbursement and better work schedules including consistency and full-time schedules, and then withdrawn those benefits.
 
-##### slide 23
 3. According to the BLS many retail jobs do not pay a living wage. 
 Our analysis of data from IPUMS.org has found that retail consistently sustains a higher level of part-time workers when compared with other sectors.
 IPUMS is a part of the Institute for Social Research and Data Innovation at the University of Minnesota and is directed by Regents Professor Steven Ruggles.
 
-##### slide 24
-## Economic welfare of constituents
+### Economic welfare of constituents
 
 Our stated objective is to address a policy maker working on underemployment and its impact on the economic welfare of their constituents. Our analysis estimated 415,690 involuntary part-time U.S. retail workers in December 2023. The "Waldman Effect" could explain up to 7.36% of involuntary retail workers’ jobs. Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
 
-###### slide 25
 Although the initial furor over the potential impact on employers of the ACA has not created the feared changes to numbers of employees, nor to the number of hours employees worked, advancing technology is making it easier for employers to identify scheduling needs resulting in last minute changes to employee schedules. 
 
 Technology is not going away and AI will continue to impact work, so finding a way to reduce or eliminate irregular schedules is central to addressing what has become the default at many large chain employers; involuntary part-time employment.
 
-##### slide 26
+##### slide 26 - Should we move this up since it's our analysis?
 Over the past year, Retail has maintained a high percentage of workers who are forced to work part-time because they could only find part-time work. 
 
 Retail also has a higher Job Quit Rate and lower Job Openings Rate.
 
-##### slide 27
+![JobQuitRate](Images/JobQuitRate.PNG)
+![JobOpeningRate](Images/JobOpeningRate.PNG)
+
+
 McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 2022, offers a dozen reasons why retail employees are quitting and suggests four imperatives, foremost being:
-! Understand the frontline talent pools and build distinctive employee value proposition(s). 
-! The frontline retail workforce is large and includes a diverse set of workers with a wide range of needs. 
-! Retailers need to identify the talent pool that best fits their company
-! Determine what matters to those segments of workers, and 
-! Develop an employee value proposition tailored to the unique needs of their employee segment(s).
+* Understand the frontline talent pools and build distinctive employee value proposition(s). 
+* The frontline retail workforce is large and includes a diverse set of workers with a wide range of needs. 
+* Retailers need to identify the talent pool that best fits their company
+* Determine what matters to those segments of workers, and 
+* Develop an employee value proposition tailored to the unique needs of their employee segment(s).
 
-##### slide 28
-## Our key takeaways
 
-! The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” 
+## Conclusion
 
-! In 2023-2024 data Retail represents 5% of all part-time labor which is down from 8% for 2005-2024 
-! Part-time labor in retail peaked between 2008 and 2015 when it remained above 10% and visited 13% repeatedly. 
-! Part-time labor dropped below 5% in 2020, presumably when COVID shut down many in person shopping venues.
-! Part-time retail labor has hovered around 5% of total labor since 2020.
-! December 2023, up to 7.36% of retail labor is involuntarily part-time representing the “Waldman Effect”
+The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” 
 
-###### slide 29
+* In 2023-2024 data Retail represents 5% of all part-time labor which is down from 8% for 2005-2024 
+* Part-time labor in retail peaked between 2008 and 2015 when it remained above 10% and visited 13% repeatedly. 
+* Part-time labor dropped below 5% in 2020, presumably when COVID shut down many in person shopping venues.
+* Part-time retail labor has hovered around 5% of total labor since 2020.
+* December 2023, up to 7.36% of retail labor is involuntarily part-time representing the “Waldman Effect”
+
+
 Northeastern Professor Dennis R. Shaughnessy corrects the oft misquoted  “The business of America is business!”   Actually, President Coolidge said that the “chief business of the American people is business.”  
 
 It appears then that the original idea behind Coolidge’s idea was indeed to praise business leaders and the business community for driving the economic prosperity of America and its people. But it also appears that he did not believe that business alone, or self-interest and wealth accumulation, are what drives Americans and our society forward. Rather, it is the higher ideals such as peace, honor and charity that make up the core of American values. 
 
-… As Professor Shaughnessy reflects back on the words of President Coolidge, President Reagan and President Trump, we agree with his hopes that the idea of being “pro-business” is not interpreted narrowly to require a diminishment of social commitments. 
+As Professor Shaughnessy reflects back on the words of President Coolidge, President Reagan and President Trump, we agree with his hopes that the idea of being “pro-business” is not interpreted narrowly to require a diminishment of social commitments. 
 
-###### slide 30
 We have determined that this retail industry practice of hiring part-time workers and then choosing to hire more part-time workers rather than increasing the work hours of existing staff is not new. 
 
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
@@ -198,13 +200,12 @@ This practice is insidious because it subjects workers to dynamic schedules whic
 Think tanks and State legislatures offer ideas that could be expanded to the federal level. 
 Case in point is the  report “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016.
 
-###### slide 31
+## Policy Recommendation
 Our recommendation is to adopt the San Jose, CA 2017 policy because it has a proven track record and would be consistent with a future update to federal tax code reversing rules regarding exclusion of part-timers from many types of benefits, which currently make it attractive for employers to hire more part-time than full-time employees if benefits are increasing in cost more than wage compensation. 
 
 https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/
 (see Lambert, Fugiel, and Henly 2014; Alexander and Haley-Lock 2015).
 
-###### slide 32 
 Schoolhouse Rock: How a Bill Becomes a Law, https://www.youtube.com/watch?v=men-vp5jvzI
 
 Finally, if these incremental changes are insufficient to alleviate the burden of involuntary part-time hours, then it might be time for Congress to act with legislation requiring all workers receive all benefits prorated to reflect the differences in hours worked. “This would reduce the number of Americans working in involuntary part-time positions, as employers would no longer stand to gain as much from employing part-time workers (Tilly 1990).”

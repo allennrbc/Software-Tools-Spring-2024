@@ -1,3 +1,18 @@
+## Synopsis
+
+Over the past year, Retail has maintained a high percentage of workers who are forced to work part-time because they could only find part-time work. 
+
+Retail also has a higher Job Quit Rate and lower Job Openings Rate.
+
+The retail industry practice of hiring part-time workers and then choosing to hire more part-time workers rather than increasing the work hours of existing staff is not new. 
+
+We have determined that this retail industry practice of hiring part-time workers and then choosing to hire more part-time workers rather than increasing the work hours of existing staff is not new.
+
+This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
+
+Think tanks and State legislatures offer ideas that could be expanded to the federal level. Case in point is the report “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/
+
+
 ## Introduction
 
 Welcome to Group 1’s Course Project for ADEC 7900 Software Tools for Data Analysis.
@@ -39,7 +54,7 @@ Using this framework, we found that the Retail Industry was a national leader in
 
 ![CouldOnlyFindPTRetail2](Images/CouldOnlyFindPTRetail2.png)
 
-Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part-time likely contributes to this problem, and is a potential blind spot in current public policy. 
+Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part-time likely contributes to this problem, and is a potential blind spot in current public policy. (https://www.unitedforalice.org/alice-evd)
 
 ![Alice](Images/Alice.PNG)
 
@@ -51,6 +66,7 @@ Per our own analysis of part-time work, the Retail Industry dominates the catego
 
 ### How long has this been going on?
 Per data from the Federal Reserve Economic Data (FRED) between 2005-2024, the percentage of part-time workers who can only find part-time work fluctuates similarly across most industries. The Retail Industry appears to sustain a higher level of workers who can only find part-time work.
+https://fred.stlouisfed.org/series/U6RATE
 
 ![FREDTotalUnemp](Images/FREDTotalUnemp.PNG)
 
@@ -77,6 +93,7 @@ In the words of the original act, the DOL's purpose is "to foster, promote and d
 
 ### FMLA
 The most recent piece of legislation from the Department of Labor under the Fair Labor Standards Act replaces the analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.
+https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act
 
 The Family and Medical Leave Act (FMLA) covers only larger employers with at least 50 employees. 
 And, it covers only employees who meet these three requirements:
@@ -139,7 +156,7 @@ Due to a lack of available data, our analysis does not however account for any p
 
 ### Employer Practices - recent history
 
-1. Every CEO in office will have read one of the Harvard Business Review’s succession planning Case Studies and understands the UMass Global article "Three Ways businesses that [promoting] from within can benefit [employers]"
+1. Every CEO in office will have read one of the Harvard Business Review’s succession planning Case Studies https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act  and understands the UMass Global article "Three Ways businesses that [promoting] from within can benefit [employers]"  https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act
    
 * Promoting from within can save time and money
 * Internal mobility can help with retention and motivation
@@ -148,7 +165,7 @@ Due to a lack of available data, our analysis does not however account for any p
 2. Some of the biggest retailers have offered tuition reimbursement and better work schedules including consistency and full-time schedules, and then withdrawn those benefits.
 
 3. According to the BLS many retail jobs do not pay a living wage. 
-Our analysis of data from IPUMS.org has found that retail consistently sustains a higher level of part-time workers when compared with other sectors.
+Our analysis of data from IPUMS.org https://cps.ipums.org/cps/ has found that retail consistently sustains a higher level of part-time workers when compared with other sectors.
 IPUMS is a part of the Institute for Social Research and Data Innovation at the University of Minnesota and is directed by Regents Professor Steven Ruggles.
 
 ### Economic welfare of constituents
@@ -168,7 +185,7 @@ Retail also has a higher Job Quit Rate and lower Job Openings Rate.
 ![JobOpeningRate](Images/JobOpeningRate.PNG)
 
 
-McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 2022, offers a dozen reasons why retail employees are quitting and suggests four imperatives, foremost being:
+McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 2022, https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-attract-and-retain-frontline-talent-amid-the-great-attrition  offers a dozen reasons why retail employees are quitting and suggests four imperatives, foremost being:
 * Understand the frontline talent pools and build distinctive employee value proposition(s). 
 * The frontline retail workforce is large and includes a diverse set of workers with a wide range of needs. 
 * Retailers need to identify the talent pool that best fits their company
@@ -178,7 +195,7 @@ McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 202
 
 ## Conclusion
 
-The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” 
+The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#:~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022.
 
 * In 2023-2024 data Retail represents 5% of all part-time labor which is down from 8% for 2005-2024 
 * Part-time labor in retail peaked between 2008 and 2015 when it remained above 10% and visited 13% repeatedly. 
@@ -187,7 +204,7 @@ The US Census Bureau reports that “the relative number of U.S. retail workers 
 * December 2023, up to 7.36% of retail labor is involuntarily part-time representing the “Waldman Effect”
 
 
-Northeastern Professor Dennis R. Shaughnessy corrects the oft misquoted  “The business of America is business!”   Actually, President Coolidge said that the “chief business of the American people is business.”  
+Northeastern Professor Dennis R. Shaughnessy corrects the oft misquoted  “The business of America is business!”   Actually, President Coolidge said that the “chief business of the American people is business.”  https://www.northeastern.edu/sei/2017/02/the-business-of-america-is-business/
 
 It appears then that the original idea behind Coolidge’s idea was indeed to praise business leaders and the business community for driving the economic prosperity of America and its people. But it also appears that he did not believe that business alone, or self-interest and wealth accumulation, are what drives Americans and our society forward. Rather, it is the higher ideals such as peace, honor and charity that make up the core of American values. 
 
@@ -198,14 +215,15 @@ We have determined that this retail industry practice of hiring part-time worker
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
 
 Think tanks and State legislatures offer ideas that could be expanded to the federal level. 
-Case in point is the  report “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016.
+Case in point is the  report “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/
 
 ## Policy Recommendation
 Our recommendation is to adopt the San Jose, CA 2017 policy because it has a proven track record and would be consistent with a future update to federal tax code reversing rules regarding exclusion of part-timers from many types of benefits, which currently make it attractive for employers to hire more part-time than full-time employees if benefits are increasing in cost more than wage compensation. 
 
-https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/
-(see Lambert, Fugiel, and Henly 2014; Alexander and Haley-Lock 2015).
+(see Lambert, Fugiel, and Henly 2014; 
+https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1068/files/2018/05/managingprecariousworkschedules_11.11.2015-qmnh8j.pdf   Alexander and Haley-Lock 2015  https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12111).
 
 Schoolhouse Rock: How a Bill Becomes a Law, https://www.youtube.com/watch?v=men-vp5jvzI
 
-Finally, if these incremental changes are insufficient to alleviate the burden of involuntary part-time hours, then it might be time for Congress to act with legislation requiring all workers receive all benefits prorated to reflect the differences in hours worked. “This would reduce the number of Americans working in involuntary part-time positions, as employers would no longer stand to gain as much from employing part-time workers (Tilly 1990).”
+Finally, if these incremental changes are insufficient to alleviate the burden of involuntary part-time hours, then it might be time for Congress to act with legislation requiring all workers receive all benefits prorated to reflect the differences in hours worked. “This would reduce the number of Americans working in involuntary part-time positions, as employers would no longer stand to gain as much from employing part-time workers (Tilly 1990).” [https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20[Ch%201,3,6].pdf
+](https://www.jstor.org/stable/44582194)

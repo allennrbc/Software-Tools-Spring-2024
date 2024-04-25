@@ -6,8 +6,7 @@ editor_options:
 
 cgch 4/17 updating to include all the work we collaborated on in Google Doc!
 ##### slide 1
-# GROUP Project SYNTHESIS (report/script) WIP
-
+# GROUP Project 4/24/2024
 ## Introduction
 
 Welcome to Group 1’s Course Project for ADEC 7900 Software Tools for Data Analysis.

@@ -37,7 +37,26 @@ In her New York Times column, Waldman writes, "Many people choose to work part t
 
 
 
-## Data Summary - Dan, can you add the description for the data you used?
+## Data Summary
+Our industry analysis is based on a subset of monthly U.S. Census Current Population Survey (CPS) data, which includes year, month, industry and employment status information. Here are the specific economic variables we used: 
+* WHYPTLWK: "Reason for working part time last week"
+	* The WHYPTLWK census variable provides detailed reasons for part-time work. Our work focused on isolating code #60 "Could only find part-time work." This is a subgroup of a classification often referred to as “Part-Time for Economic Reasons.”
+   * For context, examples of other WHYPTLWK codes include:
+      * Material shortage
+      * Seasonal work
+      * Not want full time work
+      * Retired/SS limit on earnings
+      * Child care problems
+      * Health/medical limitation
+      * Too busy with house, school, etc
+      * School/training
+* WKSTAT: Full or part-time status
+* IND1950: Industry codes, which are comparable over time
+	* The detailed industry codes were grouped by header industries, following the data definitions provided by [IPUMS.org](https://cps.ipums.org/cps-action/variables/IND1950#codes_section).
+* WTFINL: sample weight for survey respondent
+	* Example: A WTFINL value of 2469 means the survey respondent is representative of 2469 Americans.
+
+ The data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - early 2024.
 
 To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the average wage for retail workers and the consumer price index for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
 

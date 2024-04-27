@@ -8,7 +8,7 @@ We have determined that this retail industry practice of hiring part time worker
 
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
 
-Think tanks and State legislatures offer ideas that could be expanded to the federal level. Case in point is the report “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/
+Think tanks and State legislatures offer ideas that could be expanded to the federal level. Case in point is the report [“Still falling short on hours and pay. Part-time work becoming [the] new normal”](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. 
 
 
 ## Introduction
@@ -24,11 +24,9 @@ greatest potential for available data would be to address *a policy maker
 working on underemployment and its impact on the economic welfare of
 their constituents.*
 
-Our lead question came from "It’s Not Just Wages. Retailers Are
-Mistreating Workers in a More Insidious Way." Feb. 19, 2024 By Adelle
-Waldman.
-<https://www.nytimes.com/2024/02/19/opinion/part-time-workers-usa.html>
-Ms. Waldman’s forthcoming novel, “Help Wanted,” takes place in a big-box
+Our lead question came from ["It’s Not Just Wages. Retailers Are
+Mistreating Workers in a More Insidious Way."](https://www.nytimes.com/2024/02/19/opinion/part-time-workers-usa.html) Feb. 19, 2024 By Adelle
+Waldman. Ms. Waldman’s forthcoming novel, “Help Wanted,” takes place in a big-box
 store.
 
 In her New York Times column, Waldman writes, "Many people choose to work part time for better work-life balance or to attend school or to care for children or other family members. But many don’t. In recent years, part time work has become the default at many large chain employers, an involuntary status imposed on large numbers of their lowest-level employees."
@@ -56,7 +54,7 @@ Our industry analysis is based on a subset of monthly U.S. Census Current Popula
 
  The data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - early 2024.
 
-To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the average wage for retail workers and the consumer price index for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
+To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the [average wage for retail workers](https://fred.stlouisfed.org/series/CES4200000003) and the [consumer price index](https://fred.stlouisfed.org/series/CPIAUCSL) for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100. To view the R analysis, please see RealWageMD.Rmd in the repository
 
 ### Additional Data
 We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. No manual calculations were used with this data. 
@@ -78,15 +76,14 @@ While the retail industry dominates the category “Could only find part time em
 
 ![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG)
 
-Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a potential blind spot in current public policy. (https://www.unitedforalice.org/alice-evd) For example, according to [Economic Policy Institute Research Associate Lonnie Golden, Ph.D.](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/#epi-toc-17), a 2015 Rutgers University survey of almost 1,000 part-time workers found "seven in 10 of involuntary part-time workers say they earn less money than they need to survive and support families.”
+Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a [potential blind spot in current public policy.](https://www.unitedforalice.org/alice-evd) For example, according to [Economic Policy Institute Research Associate Lonnie Golden, Ph.D.](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/#epi-toc-17), a 2015 Rutgers University survey of almost 1,000 part-time workers found "seven in 10 of involuntary part-time workers say they earn less money than they need to survive and support families.”
 
 ![Alice](Images/Alice.PNG)
 
 Overall, 47% of people below the ALICE threshold work part-time. The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233. With our estimation of 415,690 involuntary part time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
 
 ### How long has this been going on?
-Per data from the Federal Reserve Economic Data (FRED) between 2005-2024, the percentage of part time workers who can only find part time work fluctuates similarly across most industries. The Retail Industry appears to sustain a higher level of workers who can only find part time work.
-https://fred.stlouisfed.org/series/U6RATE
+Per data from the [Federal Reserve Economic Data (FRED) between 2005-2024](https://fred.stlouisfed.org/series/U6RATE), the percentage of part time workers who can only find part time work fluctuates similarly across most industries. The Retail Industry appears to sustain a higher level of workers who can only find part time work.
 
 ![FREDTotalUnemp](Images/FREDTotalUnemp.PNG)
 
@@ -107,8 +104,8 @@ The Occupational Safety and Health Act of 1970 requires employees have a safe sy
 
 The act establishing the Department of Labor was signed on March 4, 1913, by a reluctant President William Howard Taft, the defeated and departing incumbent, just hours before Woodrow Wilson took office. A Federal Department of Labor was the direct product of a half-century campaign by organized labor for a "Voice in the Cabinet," and an indirect product of the Progressive Movement. In the words of the original act, the DOL's purpose is "to foster, promote and develop the welfare of working people, to improve their working conditions, and to enhance their opportunities for profitable employment."
 
-The most recent piece of legislation from the Department of Labor under the Fair Labor Standards Act replaces the analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.
-https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act
+The most recent piece of legislation from the [Department of Labor under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) replaces the analysis for determining employee or independent contractor classification under the Fair Labor Standards Act (FLSA or Act) with an analysis that is more consistent with judicial precedent and the Act's text and purpose.
+
 
 ### FMLA
 
@@ -211,7 +208,7 @@ McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 202
 
 ## Conclusion
 
-The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#:~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022.
+[The US Census Bureau](https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#:~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022) reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.”
 
 ![Conclusion](Images/Conclusion.PNG)
 
@@ -222,7 +219,7 @@ The US Census Bureau reports that “the relative number of U.S. retail workers 
 * December 2023, up to 7.36% of retail labor is involuntarily part-time representing the “Waldman Effect”
 
 
-Northeastern Professor Dennis R. Shaughnessy corrects the oft misquoted  “The business of America is business!”   Actually, President Coolidge said that the “chief business of the American people is business.”  https://www.northeastern.edu/sei/2017/02/the-business-of-america-is-business/
+Northeastern Professor Dennis R. Shaughnessy corrects the oft misquoted  “The business of America is business!”   [Actually, President Coolidge said](https://www.northeastern.edu/sei/2017/02/the-business-of-america-is-business/) that the “chief business of the American people is business.”  
 
 It appears then that the original idea behind Coolidge’s idea was indeed to praise business leaders and the business community for driving the economic prosperity of America and its people. But it also appears that he did not believe that business alone, or self-interest and wealth accumulation, are what drives Americans and our society forward. Rather, it is the higher ideals such as peace, honor and charity that make up the core of American values. 
 
@@ -233,12 +230,12 @@ We have determined that this retail industry practice of hiring part-time worker
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
 
 Think tanks and State legislatures offer ideas that could be expanded to the federal level. 
-Case in point is the  report “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/
+Case in point is [the report](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. 
 
 ## Policy Recommendation
 Our recommendation is to adopt the San Jose, CA 2017 policy because it has a proven track record and would be consistent with a future update to federal tax code reversing rules regarding exclusion of part-timers from many types of benefits, which currently make it attractive for employers to hire more part-time than full-time employees if benefits are increasing in cost more than wage compensation. 
 
-(see Lambert, Fugiel, and Henly 2014; 
+(see Lambert, Fugiel, and Henly 2014) 
 https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1068/files/2018/05/managingprecariousworkschedules_11.11.2015-qmnh8j.pdf   Alexander and Haley-Lock 2015  https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12111).
 
 Finally, if these incremental changes are insufficient to alleviate the burden of involuntary part-time hours, then it might be time for Congress to act with legislation requiring all workers receive all benefits prorated to reflect the differences in hours worked. “This would reduce the number of Americans working in involuntary part-time positions, as employers would no longer stand to gain as much from employing part-time workers (Tilly 1990).” [https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20[Ch%201,3,6].pdf

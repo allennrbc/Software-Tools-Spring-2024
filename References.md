@@ -17,3 +17,6 @@ FLMA Data:
 PTO Data: 
 * Bureau of Labor Statistics, (2024, April 12). _Employee Benefits in Private Industry 1998-2007_[Data Set]. Employee Benefits. U. S. Department of Labor. https://www.bls.gov/ebs/publications/annual-benefits-summary.htm
 * Bureau of Labor Statistics, (2024, April 12). _Employee Benefits in Private Industry 2008-2023_[Data Set]. Employee Benefits. U. S. Department of Labor. https://www.bls.gov/ebs/publications/annual-benefits-summary.htm
+
+Census CPS Data
+* Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren, Daniel Backman, Annie Chen, Grace Cooper, Stephanie Richards, Megan Schouweiler, and Michael Westberry, (2024, April 7). IPUMS CPS: Version 11.0 [dataset]. Minneapolis, MN: IPUMS, 2024. https://cps.ipums.org/cps/

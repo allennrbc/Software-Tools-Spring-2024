@@ -4,8 +4,6 @@ Over the past year, Retail has maintained a high percentage of workers who are f
 
 Retail also has a higher Job Quit Rate and lower Job Openings Rate.
 
-The retail industry practice of hiring part time workers and then choosing to hire more part time workers rather than increasing the work hours of existing staff is not new. 
-
 We have determined that this retail industry practice of hiring part time workers and then choosing to hire more part time workers rather than increasing the work hours of existing staff is not new.
 
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
@@ -62,10 +60,6 @@ To determine if the wages paid to retail workers have kept pace with inflation, 
 
 ### Additional Data
 We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. No manual calculations were used with this data. 
-
-# CH asking is KFF Kaiser Family Foundation? Kind of - It was previously the Kaiser Family Foundation but has changed its name to KFF. IT is an information organization now and is not affiliated with Kaiser Permanente and is not a foundation. More information can be found here https://www.kff.org/about-us/ under "Why We're Called KFF" 
-
-
 
 ## Data Analytics
 If an industry has a higher proportion of part time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part time workers, which doesn't provide a meaningful insight. To confirm whether retail has a higher rate of part time workers, we examined the percentage of involuntary part time workers as a percentage of total part time workers rather than as a percentage of total workers in an industry. Our approach gave us a measure of involuntary part time work relative to total part time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
@@ -247,8 +241,6 @@ Our recommendation is to adopt the San Jose, CA 2017 policy because it has a pro
 
 (see Lambert, Fugiel, and Henly 2014; 
 https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1068/files/2018/05/managingprecariousworkschedules_11.11.2015-qmnh8j.pdf   Alexander and Haley-Lock 2015  https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12111).
-
-Schoolhouse Rock: How a Bill Becomes a Law, https://www.youtube.com/watch?v=men-vp5jvzI
 
 Finally, if these incremental changes are insufficient to alleviate the burden of involuntary part-time hours, then it might be time for Congress to act with legislation requiring all workers receive all benefits prorated to reflect the differences in hours worked. “This would reduce the number of Americans working in involuntary part-time positions, as employers would no longer stand to gain as much from employing part-time workers (Tilly 1990).” [https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20[Ch%201,3,6].pdf
 ](https://www.jstor.org/stable/44582194)

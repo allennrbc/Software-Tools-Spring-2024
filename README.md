@@ -80,11 +80,11 @@ Using this framework, we found that the Retail Industry was a national leader in
 
 ![CouldOnlyFindPTRetail2](Images/CouldOnlyFindPTRetail2.png)
 
-Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability, this phenomenon of involuntary part time likely contributes to this problem, and is a potential blind spot in current public policy. (https://www.unitedforalice.org/alice-evd)
+Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a potential blind spot in current public policy. (https://www.unitedforalice.org/alice-evd)
 
 ![Alice](Images/Alice.PNG)
 
-The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233 of whom 53% are full-time and 47% are part time. With our estimation of 415,690 involuntary part time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
+Overall, 47% of people below the ALICE threshold work part-time. The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233. With our estimation of 415,690 involuntary part time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
 
 Per our own analysis of part time work, the Retail Industry dominates the category “Could only find part time employment” as a “Percent of Part time workers” for the 20 year period 2005 - 2024 and is second only to “Mining” for the most recent period from 2023 to 2024.
 

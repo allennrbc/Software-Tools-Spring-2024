@@ -213,7 +213,9 @@ McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 202
 
 The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#:~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022.
 
-# CH can we insert the composite image with multiple graphs from slide 28?
+# CH can we insert the images from the composite graphs from slide 28?
+! the Number of retail workers share of civilian workforce
+![CouldOnlyFindPTRetail2](Images/CouldOnlyFindPTRetail2.png)
 ![Conclusion](Images/Conclusion.PNG)
 
 * In 2023-2024 data Retail represents 5% of all part-time labor which is down from 8% for 2005-2024 

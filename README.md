@@ -86,15 +86,17 @@ Compiling this timeframe's data into a comparative barplot in Figure 3 also show
 
 ![CouldOnlyFIndPT](Images/CouldOnlyFIndPT.PNG)
 
+A more recent snapshot in Figure 4 shows the retail industry stilll dominates the category “Could only find part time employment” as a “Percent of Part time workers” for the 20 year period 2005 - 2024 and is second only to “Mining” for the most recent period from 2023 to 2024.
+
+*Figure 4*
+
+![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG)
+
 Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a potential blind spot in current public policy. (https://www.unitedforalice.org/alice-evd) For example, according to [Economic Policy Institute Research Associate Lonnie Golden, Ph.D.](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/#epi-toc-17), a 2015 Rutgers University survey of almost 1,000 part-time workers found "seven in 10 of involuntary part-time workers say they earn less money than they need to survive and support families.”
 
 ![Alice](Images/Alice.PNG)
 
 Overall, 47% of people below the ALICE threshold work part-time. The retail Industry leads the ALICE rankings with the highest number of workers below the ALICE threshold with 5,645,233. With our estimation of 415,690 involuntary part time U.S. retail workers in December 2023, this means up to 415,690/5,645,233 = 7.36% of this population could be explained by the "Waldman Effect." Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
-
-Per our own analysis of part time work, the Retail Industry dominates the category “Could only find part time employment” as a “Percent of Part time workers” for the 20 year period 2005 - 2024 and is second only to “Mining” for the most recent period from 2023 to 2024.
-
-![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG)
 
 ### How long has this been going on?
 Per data from the Federal Reserve Economic Data (FRED) between 2005-2024, the percentage of part time workers who can only find part time work fluctuates similarly across most industries. The Retail Industry appears to sustain a higher level of workers who can only find part time work.

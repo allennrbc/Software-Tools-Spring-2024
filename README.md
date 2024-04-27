@@ -39,7 +39,7 @@ In her New York Times column, Waldman writes, "Many people choose to work part t
 
 ## Data Summary
 Our industry analysis is based on a subset of monthly U.S. Census Current Population Survey (CPS) data, which includes year, month, industry and employment status information. Here are the specific economic variables we used: 
-* WHYPTLWK: "Reason for working part time last week"
+* WHYPTLWK: Reason for working part time last week
 	* The WHYPTLWK census variable provides detailed reasons for part-time work. Our work focused on isolating code #60 "Could only find part-time work." This is a subgroup of a classification often referred to as “Part-Time for Economic Reasons.”
    * For context, examples of other WHYPTLWK codes include:
       * Material shortage

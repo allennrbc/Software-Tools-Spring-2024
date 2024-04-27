@@ -74,7 +74,7 @@ Compiling this timeframe's data into a comparative barplot  shows the retail ind
 
 ![CouldOnlyFIndPT](Images/CouldOnlyFIndPT.PNG)
 
-A more recent snapshot shows the retail industry stilll dominates the category “Could only find part time employment” as a “Percent of Part time workers” for the 20 year period 2005 - 2024 and is second only to “Mining” for the most recent period from 2023 to 2024.
+While the retail industry dominates the category “Could only find part time employment” as a “Percent of Part time workers” for the 20 year period 2005 - 2024, it is second only to “Mining” for the most recent period from 2023 to 2024.
 
 ![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG)
 

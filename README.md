@@ -70,15 +70,21 @@ We used additional data provided by the Bureau of Labor Statistics, Federal Rese
 ## Data Analytics
 If an industry has a higher proportion of part time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part time workers, which doesn't provide a meaningful insight. To confirm whether retail has a higher rate of part time workers, we examined the percentage of involuntary part time workers as a percentage of total part time workers rather than as a percentage of total workers in an industry. Our approach gave us a measure of involuntary part time work relative to total part time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
 
+Time Series plot in Figures 1 shows the retail industry generally sustains a higher level of workers who can only find part-time work. Figure 2 zooms in on retail.
+
+*Figure 1* 
+
 ![CouldOnlyFindPTByIndustry](Images/CouldOnlyFindPTByIndustry.PNG)
 
-To examine this assertion, we referenced employment data from the U.S. Census Current Population Survey. 
-
-![CouldOnlyFIndPT](Images/CouldOnlyFIndPT.PNG)
-
-Using this framework, we found that the Retail Industry was a national leader in this classification of involuntary part time work. This finding provides a strong foundation for Waldman's claim. 
+*Figure 2* 
 
 ![CouldOnlyFindPTRetail2](Images/CouldOnlyFindPTRetail2.png)
+
+Compiling this timeframe's data into a comparative barplot in Figure 3 also shows the retail industry is a national leader in this classification of involuntary part time work. This finding provides a strong foundation for Waldman's claim. 
+
+*Figure 3* 
+
+![CouldOnlyFIndPT](Images/CouldOnlyFIndPT.PNG)
 
 Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a potential blind spot in current public policy. (https://www.unitedforalice.org/alice-evd) For example, according to [Economic Policy Institute Research Associate Lonnie Golden, Ph.D.](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/#epi-toc-17), a 2015 Rutgers University survey of almost 1,000 part-time workers found "seven in 10 of involuntary part-time workers say they earn less money than they need to survive and support families.”
 

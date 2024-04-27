@@ -172,7 +172,7 @@ Due to a lack of available data, our analysis does not however account for any p
 
 ### Employer Practices - recent history
 
-1. Every CEO in office will have read one of the Harvard Business Review’s succession planning Case Studies https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act  and understands the UMass Global article "How promoting from within could benefit your business" https://www.umassglobal.edu/news-and-events/blog/promoting-from-within
+1. Every CEO in office will have read one of the Harvard Business Review’s succession planning [Case Studies](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) and understands the UMass Global article ["How promoting from within could benefit your business] (https://www.umassglobal.edu/news-and-events/blog/promoting-from-within)
    
 * Promoting from within can save time and money
 * Internal mobility can help with retention and motivation
@@ -181,7 +181,7 @@ Due to a lack of available data, our analysis does not however account for any p
 2. Some of the biggest retailers have offered tuition reimbursement and better work schedules including consistency and full-time schedules, and then withdrawn those benefits.
 
 3. According to the BLS many retail jobs do not pay a living wage. 
-Our analysis of data from IPUMS.org has found that retail consistently sustains a higher level of part-time workers when compared with other sectors. IPUMS is a part of the Institute for Social Research and Data Innovation at the University of Minnesota and is directed by Regents Professor Steven Ruggles. https://cps.ipums.org/cps/ 
+Our analysis of data from IPUMS.org has found that retail consistently sustains a higher level of part-time workers when compared with other sectors. [IPUMS](https://cps.ipums.org/cps/) is a part of the Institute for Social Research and Data Innovation at the University of Minnesota and is directed by Regents Professor Steven Ruggles. 
 
 ## Economic welfare of constituents
 

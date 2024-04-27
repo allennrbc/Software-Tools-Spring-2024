@@ -48,7 +48,7 @@ We used additional data provided by the Bureau of Labor Statistics, Federal Rese
 
 
 
-## Analysis
+## Data Analytics
 If an industry has a higher proportion of part time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part time workers, which doesn't provide a meaningful insight. To confirm whether retail has a higher rate of part time workers, we examined the percentage of involuntary part time workers as a percentage of total part time workers rather than as a percentage of total workers in an industry. Our approach gave us a measure of involuntary part time work relative to total part time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
 
 ![CouldOnlyFindPTByIndustry](Images/CouldOnlyFindPTByIndustry.PNG)

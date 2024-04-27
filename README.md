@@ -39,10 +39,12 @@ In her New York Times column, Waldman writes, "Many people choose to work part t
 
 ## Data Summary - Dan, can you add the description for the data you used?
 
-### Additional Data
-We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. 
+To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the average wage for retail workers and the consumer price index for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
 
-# CH asking is KFF Kaiser Family Foundation?
+### Additional Data
+We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. No manual calculations were used with this data. 
+
+# CH asking is KFF Kaiser Family Foundation? Kind of - It was previously the Kaiser Family Foundation but has changed its name to KFF. IT is an information organization now and is not affiliated with Kaiser Permanente and is not a foundation. More information can be found here https://www.kff.org/about-us/ under "Why We're Called KFF" 
 
 
 
@@ -199,6 +201,7 @@ McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 202
 The US Census Bureau reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.” https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#:~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022.
 
 # CH can we insert the composite image with multiple graphs from slide 28?
+![Conclusion](Images/Conclusion.PNG)
 
 * In 2023-2024 data Retail represents 5% of all part-time labor which is down from 8% for 2005-2024 
 * Part-time labor in retail peaked between 2008 and 2015 when it remained above 10% and visited 13% repeatedly. 

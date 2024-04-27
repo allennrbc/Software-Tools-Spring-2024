@@ -22,9 +22,9 @@ to our strengths, reading, finding potential data sources, and corresponding wit
 potential resources.
 
 By consensus we determined that the best research project topic with the
-greatest potential for available data would be to address a policy maker
+greatest potential for available data would be to address *a policy maker
 working on underemployment and its impact on the economic welfare of
-their constituents.
+their constituents.*
 
 Our lead question came from "It’s Not Just Wages. Retailers Are
 Mistreating Workers in a More Insidious Way." Feb. 19, 2024 By Adelle
@@ -36,10 +36,15 @@ store.
 In her New York Times column, Waldman writes, "Many people choose to work part time for better work-life balance or to attend school or to care for children or other family members. But many don’t. In recent years, part time work has become the default at many large chain employers, an involuntary status imposed on large numbers of their lowest-level employees."
 
 
+
 ## Data Summary - Dan, can you add the description for the data you used?
 
 ### Additional Data
 We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. 
+
+# CH asking is KFF Kaiser Family Foundation?
+
+
 
 ## Analysis
 If an industry has a higher proportion of part time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part time workers, which doesn't provide a meaningful insight. To confirm whether retail has a higher rate of part time workers, we examined the percentage of involuntary part time workers as a percentage of total part time workers rather than as a percentage of total workers in an industry. Our approach gave us a measure of involuntary part time work relative to total part time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
@@ -145,13 +150,9 @@ Similarly, when determining if trends in PT are voluntary or forced, we can look
 
 Here we compare health care insurance coverage by type. Notice that “non-group” reports insurance purchased independently rather than through an employer's group coverage. It includes the Affordable Health Care marketplace for ACA health insurance coverage and the data was provided by KFF, an independent provider of health policy research, polling, and journalism.
 
-# CH asking is KFF Kaiser Family Foundation?
-
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-The Patient Protection and Affordable Care Act (ACA) became law on March 23, 2010 and since then, the quantity of uninsured individuals has decreased, while the quantity of those insured by Medicaid and Medicare have mostly trended upward (the trend in medicare however may be due more to an aging population rather than any change in policy). 
-
-# CH asking Is this a cause for concern that employers are providing LESS insurance? Additionally, since 2010, the percentage of people insured through their employer has decreased while the percentage receiving insurance independently (or the “non-group population) remained relatively consistent.
+The Patient Protection and Affordable Care Act (ACA) became law on March 23, 2010 and since then, the quantity of uninsured individuals has decreased, while the quantity of those insured by Medicaid and Medicare have mostly trended upward (the trend in medicare however may be due more to an aging population rather than any change in policy). Additionally, since 2010, the percentage of people insured through their employer has decreased while the percentage receiving insurance independently (or the “non-group population) remained relatively consistent.
 
 Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of uninsured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. 
 
@@ -170,15 +171,13 @@ Due to a lack of available data, our analysis does not however account for any p
 3. According to the BLS many retail jobs do not pay a living wage. 
 Our analysis of data from IPUMS.org has found that retail consistently sustains a higher level of part-time workers when compared with other sectors. IPUMS is a part of the Institute for Social Research and Data Innovation at the University of Minnesota and is directed by Regents Professor Steven Ruggles. https://cps.ipums.org/cps/ 
 
-### Economic welfare of constituents
+## Economic welfare of constituents
 
-Our stated objective is to address a policy maker working on underemployment and its impact on the economic welfare of their constituents. Our analysis estimated 415,690 involuntary part-time U.S. retail workers in December 2023. The "Waldman Effect" could explain up to 7.36% of involuntary retail workers’ jobs. Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
+Our stated objective is to address a policy maker working on *underemployment and its impact on the economic welfare* of their constituents. Our analysis estimated 415,690 involuntary part-time U.S. retail workers in December 2023. The "Waldman Effect" could explain up to 7.36% of involuntary retail workers’ jobs. Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
 
 Although the initial furor over the potential impact on employers of the ACA has not created the feared changes to numbers of employees, nor to the number of hours employees worked, advancing technology is making it easier for employers to identify scheduling needs resulting in last minute changes to employee schedules. 
 
 Technology is not going away and AI will continue to impact work, so finding a way to reduce or eliminate irregular schedules is central to addressing what has become the default at many large chain employers; involuntary part-time employment.
-
-# slide 26 - HA Should we move this up since it's our analysis?
 
 Over the past year, Retail has maintained a high percentage of workers who are forced to work part-time because they could only find part-time work. 
 

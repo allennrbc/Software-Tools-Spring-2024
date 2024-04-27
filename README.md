@@ -40,7 +40,7 @@ In her New York Times column, Waldman writes, "Many people choose to work part t
 ## Data Summary
 Our industry analysis is based on a subset of monthly U.S. Census Current Population Survey (CPS) data, which includes year, month, industry and employment status information. Here are the specific economic variables we used: 
 * WHYPTLWK: Reason for working part time last week
-	* The WHYPTLWK census variable provides detailed reasons for part-time work. Our work focused on isolating code #60 "Could only find part-time work." This is a subgroup of a classification often referred to as “Part-Time for Economic Reasons.”
+	* The WHYPTLWK census variable provides detailed reasons for part-time work. Our research focused on isolating code #60 "Could only find part-time work." This is a subgroup of a classification often referred to as “Part-Time for Economic Reasons.”
    * For context, examples of other WHYPTLWK codes include:
       * Material shortage
       * Seasonal work
@@ -51,9 +51,9 @@ Our industry analysis is based on a subset of monthly U.S. Census Current Popula
       * Too busy with house, school, etc
       * School/training
 * WKSTAT: Full or part-time status
-* IND1950: Industry codes, which are comparable over time
+* IND1950: Industry classification codes, which are comparable over time
 	* The detailed industry codes were grouped by header industries, following the data definitions provided by [IPUMS.org](https://cps.ipums.org/cps-action/variables/IND1950#codes_section).
-* WTFINL: sample weight for survey respondent
+* WTFINL: The sample weight for each survey respondent
 	* Example: A WTFINL value of 2469 means the survey respondent is representative of 2469 Americans.
 
  The data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - early 2024.

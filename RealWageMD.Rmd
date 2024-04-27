@@ -2,7 +2,9 @@
 title: "Project Checkpoint 1"
 author: "Haylee Allen"
 date: "4/7/2024"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
@@ -23,8 +25,9 @@ library(ggplot2)
 library(dplyr)
 
 #Get Data
-setwd("C:/Users/hrall/Documents/Data") #set directory
-RealWageData<-read.csv("RealWage.csv", header=TRUE)
+projpath<-"C:/Users/dancu/Documents/GitHub/Software-Tools-Spring-2024/Data_Tables" #set directory
+ddi <- read_ipums_ddi(file.path(projpath,"RealWage.csv"))
+RealWageData<-read_ipums_micro(ddi)
 
 #check for null values
 sum(is.na(RealWageData))

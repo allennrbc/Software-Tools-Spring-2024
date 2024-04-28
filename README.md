@@ -57,7 +57,7 @@ Our industry analysis is based on a subset of monthly U.S. Census Current Popula
 To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the [average wage for retail workers](https://fred.stlouisfed.org/series/CES4200000003) and the [consumer price index](https://fred.stlouisfed.org/series/CPIAUCSL) for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100. To view the R analysis, please see RealWageMD.Rmd in the repository
 
 ### Additional Data
-We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to asses the impact of policies. Information on the variables used and results are provided below. No manual calculations were used with this data. 
+We used additional data provided by the Bureau of Labor Statistics, Federal Reserve Economic Data (FRED), and KFF (an independent provider of health policy research, polling, and journalism) to assess the impact of policies. Information on the variables used and results are provided below. No manual calculations were used with this data. 
 
 ## Data Analytics
 If an industry has a higher proportion of part time vs. full-time laborers, then they will probably demonstrate a higher proportion of involuntary part time workers, which doesn't provide a meaningful insight. To confirm whether retail has a higher rate of part time workers, we examined the percentage of involuntary part time workers as a percentage of total part time workers rather than as a percentage of total workers in an industry. Our approach gave us a measure of involuntary part time work relative to total part time workers. This compared the "could only find" crowd to the entire "seasonal, vacation, school, sniffles, family care, don't feel like it" crowd across all industries.
@@ -76,7 +76,7 @@ While the retail industry dominates the category “Could only find part time em
 
 ![CouldOnlyFIndPT23-24](Images/CouldOnlyFIndPT23-24.PNG)
 
-Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a [potential blind spot in current public policy.](https://www.unitedforalice.org/alice-evd) For example, according to [Economic Policy Institute Research Associate Lonnie Golden, Ph.D.](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/#epi-toc-17), a 2015 Rutgers University survey of almost 1,000 part-time workers found "seven in 10 of involuntary part-time workers say they earn less money than they need to survive and support families.”
+Data compiled by United For ALICE, a grassroots movement that conducts research to determine meaningful data regarding households that meet criteria for designation as Asset Limited, Income Constrained, Employed (ALICE). This data shows the U.S. Retail Industry has a high percentage of workers who do not attain a threshold of Economic Viability. This measure of viability includes people living below the Federal Poverty Line (FPL) in addition to folks with income above the FPL but below the cost of basics. The phenomenon of involuntary part-time employment likely contributes to this problem, and is a [potential blind spot in current public policy.](https://www.unitedforalice.org/alice-evd) For example, according to [Economic Policy Institute Research Associate Lonnie Golden, Ph.D.](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/#epi-toc-17), a 2015 Rutgers University survey of almost 1,000 part-time workers found "seven in 10 of involuntary part-time workers say they earn less money than they need to survive and support families.”
 
 ![Alice](Images/Alice.PNG)
 
@@ -119,14 +119,14 @@ And, it covers only employees who meet these three requirements:
 
 The act provides employees who meet these requirements with up to 12 weeks of unpaid, job-protected leave per year. FMLA was passed in 1993. 
 
-To analyze the impact of FMLA, we used data from the U.S. Bureau of Labor Statistics regarding access to family leave for employees. Because consistent data was not provide before and after the FMLA was passed, we reviewed data on the incidence of unpaid maternity leave and incidence of unpaid paternity leave from 1988 to 1993 and contrasted it with data on the percent of workers with availability to family leave from 1994 to 1998 and the percent of workers with access to paid family leave benefits between 2014 and 2023. Note that this data provides information on employees' elgibility for these benefits, not the rate at which they were used. 
+To analyze the impact of FMLA, we used data from the U.S. Bureau of Labor Statistics regarding access to family leave for employees. Because consistent data was not provide before and after the FMLA was passed, we reviewed data on the incidence of unpaid maternity leave and incidence of unpaid paternity leave from 1988 to 1993 and contrasted it with data on the percent of workers with availability to family leave from 1994 to 1998 and the percent of workers with access to paid family leave benefits between 2014 and 2023. Note that this data provides information on employees' eligibility for these benefits, not the rate at which they were used. 
 
 Per our analysis, the percentage of employees with access to unpaid family leave was 84% in 1995 and has only increased five percentage points since then. 
 Access to paid family leave, however, has grown from 2% in 1995 to 27% in 2023. 
 
 ![AccessToFL](Images/AccessToFL.PNG)
 
-Similar data was not found for years prior to 1993, however, the Bureau of Labor Statistics did provide the percent of private industry workers in medium and large establishment participating in unpaid leave benefits. 
+Similar data was not found for years prior to 1993, however, the Bureau of Labor Statistics did provide the percent of private industry workers in medium and large establishments participating in unpaid leave benefits. 
 This data showed that percent of workers using unpaid maternity leave increased from 33% in 1988 to 60% in 1993 and an even larger increase was seen for workers using unpaid paternity leave as the percentage increased from 16% to 53% in the same years.
 The impact could be socially driven, but it does appear that in the years following the FLMA act, most employees have had access to unpaid family leave.
 
@@ -134,14 +134,14 @@ The impact could be socially driven, but it does appear that in the years follow
 
 ### PTO
 In the absence of an applicable state or local law, it's up to the employer to decide whether their part-time employees receive paid time off (PTO) or vacation time, and if so, how much.
-We used data on access to PTO published by the Bureau of Labor statistics. The data was manually compiled by reviewing the Employee Benefits summaries published each year and removing areas with null values. The resulting graph reports rates of PTO for all employees from 1998 to 2023 and shows that access to paid sick leave has had the most significant increase among the three categories while assess to paid holidays has a slight increase between 1998 and 2023 and access to paid vacations has remained almost unchanged. All three categories report that since 1998, most employees have had access to paid leave, indicating that even without legislation, the benefit has been provided by employers. 
+We used data on access to PTO published by the Bureau of Labor statistics. The data was manually compiled by reviewing the Employee Benefits summaries published each year and removing areas with null values. The resulting graph reports rates of PTO for all employees from 1998 to 2023 and shows that access to paid sick leave has had the most significant increase among the three categories while access to paid holidays has a slight increase between 1998 and 2023 and access to paid vacations has remained almost unchanged. All three categories report that since 1998, most employees have had access to paid leave, indicating that even without legislation, the benefit has been provided by employers. 
 
 ![PTO](Images/PTO.PNG)
 
 ### Real Wage Value and Purchasing Power
 To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. 
 
-According to the Bureau of Labor Statics May 2023, Retail Salespersons average wage is $36,690.00 (category 41-2031). Whereas according to the Census Bureau, "Cashiers (category 41-2011) were among the lowest-paid members of the retail workforce. In 2023, their median earnings ($30,710) were around 47% less than those of all full-time, year-round workers ($57,216)."
+According to the Bureau of Labor Statistics May 2023, Retail Salespersons average wage is $36,690.00 (category 41-2031). Whereas according to the Census Bureau, "Cashiers (category 41-2011) were among the lowest-paid members of the retail workforce. In 2023, their median earnings ($30,710) were around 47% less than those of all full-time, year-round workers ($57,216)."
 
 We did our own analysis of average real wages using Federal Reserve Economic Data on the average wage for retail workers and the consumer price index for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100
 
@@ -151,7 +151,7 @@ Per our results, real wages for retailers appear to have decreased from around 2
 
 The Fair Labor and Standards Act provides additional requirements for companies to further establish employee protections. The act specifically establishes minimum wage, overtime pay, recordkeeping, and youth employment standards. 
 
-Per data from FRED the average hourly earnings of all employees in retail trade had only minor increases between 2007 and 2009 when the minimum wage was increased three times. Starting in 2010, the average wage for employees in retail has increase more dramatically. Since the last increase in the federal minimum wage was on July 24, 2009, this analysis indicates that minimum wage laws may have less of an effect on the hourly wage for retail employees than other sources. 
+Per data from FRED the average hourly earnings of all employees in retail trade had only minor increases between 2007 and 2009 when the minimum wage was increased three times. Starting in 2010, the average wage for employees in retail has increased more dramatically. Since the last increase in the federal minimum wage was on July 24, 2009, this analysis indicates that minimum wage laws may have less of an effect on the hourly wage for retail employees than other sources. 
 
 ![AvgHourlyEarnings](Images/AvgHourlyEarnings.PNG)
 
@@ -164,7 +164,7 @@ Here we compare health care insurance coverage by type. Notice that “non-group
 
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-The Patient Protection and Affordable Care Act (ACA) became law on March 23, 2010 and since then, the quantity of uninsured individuals has decreased, while the quantity of those insured by Medicaid and Medicare have mostly trended upward (the trend in medicare however may be due more to an aging population rather than any change in policy). Additionally, since 2010, the percentage of people insured through their employer has decreased while the percentage receiving insurance independently (or the “non-group population) remained relatively consistent.
+The Patient Protection and Affordable Care Act (ACA) became law on March 23, 2010 and since then, the quantity of uninsured individuals has decreased, while the quantity of those insured by Medicaid and Medicare have mostly trended upward (the trend in medicare however may be due more to an aging population rather than any change in policy). Additionally, since 2010, the percentage of people insured through their employer has decreased while the percentage receiving insurance independently (or the “non-group population") remained relatively consistent.
 
 Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of uninsured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. 
 

@@ -172,7 +172,7 @@ Due to a lack of available data, our analysis does not however account for any p
 
 ### Employer Practices - recent history
 
-1. Every CEO in office will have read one of the Harvard Business Review’s succession planning [Case Studies](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) and understands the UMass Global article ["How promoting from within could benefit your business] (https://www.umassglobal.edu/news-and-events/blog/promoting-from-within)
+1. Every CEO in office will have read one of the Harvard Business Review’s succession planning [Case Studies](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) and understands the UMass Global article ["How promoting from within could benefit your business](https://www.umassglobal.edu/news-and-events/blog/promoting-from-within)
    
 * Promoting from within can save time and money
 * Internal mobility can help with retention and motivation
@@ -235,8 +235,8 @@ Case in point is [the report](https://www.epi.org/publication/still-falling-shor
 ## Policy Recommendation
 Our recommendation is to adopt the San Jose, CA 2017 policy because it has a proven track record and would be consistent with a future update to federal tax code reversing rules regarding exclusion of part-timers from many types of benefits, which currently make it attractive for employers to hire more part-time than full-time employees if benefits are increasing in cost more than wage compensation. 
 
-(see Lambert, Fugiel, and Henly 2014) 
-https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1068/files/2018/05/managingprecariousworkschedules_11.11.2015-qmnh8j.pdf   Alexander and Haley-Lock 2015  https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12111).
+[(see Lambert, Fugiel, and Henly 2014)](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1068/files/2018/05/managingprecariousworkschedules_11.11.2015-qmnh8j.pdf) 
+[(Alexander and Haley-Lock 2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12111).
 
 Finally, if these incremental changes are insufficient to alleviate the burden of involuntary part-time hours, then it might be time for Congress to act with legislation requiring all workers receive all benefits prorated to reflect the differences in hours worked. “This would reduce the number of Americans working in involuntary part-time positions, as employers would no longer stand to gain as much from employing part-time workers (Tilly 1990).” [https://pages.ucsd.edu/~bslantchev/courses/ps240/06%20Domestic%20Organizations%20and%20International%20Behavior/Tilly%20-%20Coercion,%20capital%20and%20European%20states%20[Ch%201,3,6].pdf
 ](https://www.jstor.org/stable/44582194)

@@ -29,7 +29,7 @@ We have had to satisfy ourselves with aggregated sources that are excellent in t
 
 1. Has the rate of part-time retail positions changed over time?
 2. Is this “insidious” problem really new?
-3. Can the ACA and FTE criteria releive part of this "insidious" problem? What shortfalls remain to be addressed?
+3. Can the ACA and FTE criteria relieve part of this "insidious" problem? What shortfalls remain to be addressed?
 
 4. IF this is a new problem, what has changed in the retail workforce or in the general labor market
 5. Has the business of retail changed?
@@ -62,7 +62,7 @@ https://fredblog.stlouisfed.org/2020/05/the-largest-changes-in-payroll-employmen
 
 OBSERVATION - Could we make a similar comparison between a recommendation to transition to more full time workers with another pre-existing data point (independent contractors for employees with benefits)?
 
-One of the ACA FTE formulas allows/requires employers with multiple locations within a specific geographic area to make some parttime jobs full time travelling postions.
+One of the ACA FTE formulas allows/requires employers with multiple locations within a specific geographic area to make some part time jobs full time traveling positions.
 
 ### Average hourly earning of all employees, retail trade
 
@@ -96,7 +96,7 @@ A full-time equivalent employee is a combination of employees, each of whom indi
 1. Combine the number of hours of service of all non-full-time employees for the month but do not include more than 120 hours of service per employee, and
 2. Divide the total by 120.
 
-[CURRENTY] An employer’s number of full-time equivalent employees (or part-time employees) is only relevant to determining whether an employer is an ALE.  An ALE need not offer minimum essential coverage to its part-time employees to avoid an employer shared responsibility payment.  A part-time employee’s receipt of the premium tax credit for purchasing coverage through the Marketplace cannot trigger an employer shared responsibility payment.
+[CURRENTLY] An employer’s number of full-time equivalent employees (or part-time employees) is only relevant to determining whether an employer is an ALE.  An ALE need not offer minimum essential coverage to its part-time employees to avoid an employer shared responsibility payment.  A part-time employee’s receipt of the premium tax credit for purchasing coverage through the Marketplace cannot trigger an employer shared responsibility payment.
 
 OBSERVATION Does our Policy Maker need to consider educating part-time employees about the premium tax credit for purchasing coverage through the Marketplace
 
@@ -104,7 +104,7 @@ OBSERVATION Does our Policy Maker need to consider educating part-time employees
 
 ## Decision Maker and Decision Being Made
 
-## For the first month of data collection we left open who our decision maker might be so that we could better understand the available information and learn what it might tell us. We have learned that CEOs have been actively experimenting with higher wages and improved benefits to attract and retain personnel, but there remains a perversely high number of part-time positions that are not elegible for those improved benefits.
+## For the first month of data collection we left open who our decision maker might be so that we could better understand the available information and learn what it might tell us. We have learned that CEOs have been actively experimenting with higher wages and improved benefits to attract and retain personnel, but there remains a perversely high number of part-time positions that are not eligible for those improved benefits.
 
 ## We have come to the conclusion that a POLICY MAKER will need to lead this change.
 

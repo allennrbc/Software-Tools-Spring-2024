@@ -76,7 +76,7 @@ https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGTPPH
 
 Median of the year-over-year percent change in hourly wage rates computed at the individual level using linked wage records. Reported as a 12-month moving average. Paid Hourly denotes individuals who report that they are paid on an hourly basis.
 
-### FTE Full-Time Equivalent employees as definined by the IRS for the ACA (Affordable Care Act) to determine ALE (Applicable Large Emlpoyers)
+### FTE Full-Time Equivalent employees as defined by the IRS for the ACA (Affordable Care Act) to determine ALE (Applicable Large Employers)
 
 Could we improve the chances for successful adoption of our policy recommendations by adopting the definitions and formulas already in place, or adopting similar formulas/formulae?
 
@@ -224,7 +224,7 @@ This is the JOLTS.csv file.
 
 Also consulted [**BLS Persons at work in nonagricultural industries by class of worker and usual full- or part-time status**](https://www.bls.gov/cps/cpsaat21.htm)
 
-Lastly, we are examining data provided by consulted [**Bureau of Economic Analysis (BEA)**](https://www.bea.gov/data)
+Lastly, we are examining data provided by the [**Bureau of Economic Analysis (BEA)**](https://www.bea.gov/data)
 The BEA, an agency of the U.S. Department of Commerce, provides economic accounts statistics that enable government and business decision-makers to follow and understand the performance of the U.S. economy. 
 
 ## Tools and Methods Used

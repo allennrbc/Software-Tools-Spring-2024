@@ -9,7 +9,7 @@ Please see the file titled "Christine's Analysis.md" on information on our resea
 
 For this checkpoint, we created separate documents for us each to display the analysis and work we have done. Our goal moving forward will be to expand on the analysis each of us has done and combine work as well as identify gaps and assign tasks to fill these gaps. 
 
-3. Demonstrate meging of multiple data sources
+3. Demonstrate merging of multiple data sources
 
 Each of our analysis comes from different data sources. One thing we can do in the future is to create graphs and analysis created from merging data sets together. For now, much of the analysis has been completed as separate inspections of each dataset. 
 
@@ -25,11 +25,11 @@ While some KPIs have been identified in our individual analysis, there is room f
 
 Completing with this branch. While the visualizations created help us decide routes we may want to pursue, our graphs do need some cleaning up including improved titles and labels and appropriate scaling. 
 
-8. Summmarize your findings in a short video presentation
+7. Summmarize your findings in a short video presentation
 
-Christine is working with the production team at the school for which she works to help develop our presentation. We are hoping to have everything submitted to them by the early in the last week of April. 
+Christine is working with the production team at the school for which she works to help develop our presentation. We are hoping to have everything submitted to them by the last week of April. 
    
-10. Publish a detailed, well formatted markdown report of your analytical story to your GitHub reposity.
+8. Publish a detailed, well formatted markdown report of your analytical story to your GitHub reposity.
 
 In progress - this will be the README file on our main branch.
 

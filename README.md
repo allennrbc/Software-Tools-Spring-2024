@@ -145,13 +145,9 @@ Similarly, when determining if trends in PT are voluntary or forced, we can look
 
 Here we compare health care insurance coverage by type. Notice that “non-group” reports insurance purchased independently rather than through an employer's group coverage. It includes the Affordable Health Care marketplace for ACA health insurance coverage and the data was provided by KFF, an independent provider of health policy research, polling, and journalism.
 
-# CH asking is KFF Kaiser Family Foundation?
-
 ![HealthInsuranceAccess](Images/HealthInsuranceAccess.PNG)
 
-The Patient Protection and Affordable Care Act (ACA) became law on March 23, 2010 and since then, the quantity of uninsured individuals has decreased, while the quantity of those insured by Medicaid and Medicare have mostly trended upward (the trend in medicare however may be due more to an aging population rather than any change in policy). 
-
-# CH asking Is this a cause for concern that employers are providing LESS insurance? Additionally, since 2010, the percentage of people insured through their employer has decreased while the percentage receiving insurance independently (or the “non-group population) remained relatively consistent.
+The Patient Protection and Affordable Care Act (ACA) became law on March 23, 2010 and since then, the quantity of uninsured individuals has decreased, while the quantity of those insured by Medicaid and Medicare have mostly trended upward (the trend in medicare however may be due more to an aging population rather than any change in policy). Additionally, since 2010, the percentage of people insured through their employer has decreased while the percentage receiving insurance independently (or the “non-group population) remained relatively consistent.
 
 Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of uninsured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. 
 
@@ -177,8 +173,6 @@ Our stated objective is to address a policy maker working on underemployment and
 Although the initial furor over the potential impact on employers of the ACA has not created the feared changes to numbers of employees, nor to the number of hours employees worked, advancing technology is making it easier for employers to identify scheduling needs resulting in last minute changes to employee schedules. 
 
 Technology is not going away and AI will continue to impact work, so finding a way to reduce or eliminate irregular schedules is central to addressing what has become the default at many large chain employers; involuntary part-time employment.
-
-# slide 26 - HA Should we move this up since it's our analysis?
 
 Over the past year, Retail has maintained a high percentage of workers who are forced to work part-time because they could only find part-time work. 
 

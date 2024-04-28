@@ -210,7 +210,7 @@ McKinsey Frontline Retail Great Attrition and Great Attraction Survey, April 202
 
 [The US Census Bureau](https://www.census.gov/library/stories/2023/12/holiday-retail-workers.html#:~:text=In%202022%2C%20their%20median%20earnings,2010%20to%205.6%25%20in%202022) reports that “the relative number of U.S. retail workers remained over 9 million, but their share of the total workforce fell from 6.9% in 2010 to 5.6% in 2022.”
 
-![Conclusion](Images/Conclusion.PNG)
+![slide29](Images/slide29.png)
 
 * In 2023-2024 data Retail represents 5% of all part-time labor which is down from 8% for 2005-2024 
 * Part-time labor in retail peaked between 2008 and 2015 when it remained above 10% and visited 13% repeatedly. 

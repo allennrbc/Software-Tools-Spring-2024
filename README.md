@@ -21,10 +21,10 @@ Over several weeks we considered various research project ideas, each playing
 to our strengths, reading, finding potential data sources, and corresponding with
 potential resources.
 
-By consensus we determined that the best research project topic with the
-greatest potential for available data would be to address a policy maker
+By consensus we determined that the best *research project topic* with the
+greatest potential for available data would be to *address a policy maker
 working on underemployment and its impact on the economic welfare of
-their constituents.
+their constituents.*
 
 Our lead question came from "It’s Not Just Wages. Retailers Are
 Mistreating Workers in a More Insidious Way." Feb. 19, 2024 By Adelle
@@ -168,7 +168,7 @@ Our analysis of data from IPUMS.org has found that retail consistently sustains 
 
 ### Economic welfare of constituents
 
-Our stated objective is to address a policy maker working on underemployment and its impact on the economic welfare of their constituents. Our analysis estimated 415,690 involuntary part-time U.S. retail workers in December 2023. The "Waldman Effect" could explain up to 7.36% of involuntary retail workers’ jobs. Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
+Our stated objective is to *address a policy maker working on underemployment and its impact on the economic welfare of their constituents.* Our analysis estimated 415,690 involuntary part-time U.S. retail workers in December 2023. The "Waldman Effect" could explain up to 7.36% of involuntary retail workers’ jobs. Definitely a starting point for public policy scrutiny aimed at shaving a few percentage points off this figure of economic inviability.
 
 Although the initial furor over the potential impact on employers of the ACA has not created the feared changes to numbers of employees, nor to the number of hours employees worked, advancing technology is making it easier for employers to identify scheduling needs resulting in last minute changes to employee schedules. 
 

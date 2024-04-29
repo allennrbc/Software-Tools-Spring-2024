@@ -294,7 +294,7 @@ ggplot(data_summary6, aes(x=date, y=involPctofPT))+geom_line()+facet_wrap(~ str_
   geom_hline(yintercept = 5, linetype = "dashed", color = "red")
 ```
 
-![](Dan-s-Analysis-in-R_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](Dan-s-Analysis-in-R_files/figure-markdown_github/table of graphs PT by industry-chunk-10-1.png)
 
 #### Zoom in on Retail
 
@@ -305,7 +305,7 @@ ggplot(data=., aes(x=date, y=involPctofPT))+geom_line()+
 geom_hline(yintercept = 5, linetype = "dashed", color = "red")
 ```
 
-![](Dan-s-Analysis-in-R_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](Dan-s-Analysis-in-R_files/figure-markdown_github/% of PT RETAIL only-chunk-11-1.png)
 
 #### Look at mean values during full time period
 
@@ -327,7 +327,7 @@ data_summary6 %>% filter(Industry!="NA")%>% group_by(Industry) %>%
   guides(fill = "none")
 ```
 
-![](Dan-s-Analysis-in-R_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](Dan-s-Analysis-in-R_files/figure-markdown_github/Bar graph PT 2005-2024-chunk-12-1.png)
 
 #### Look at 2023-2024 - still worth double-checking the most recent data.
 
@@ -356,7 +356,7 @@ data_summary7 %>% filter(Industry!="NA")%>% group_by(Industry) %>%
   guides(fill = "none")
 ```
 
-![](Dan-s-Analysis-in-R_files/figure-markdown_github/unnamed-chunk-13-1.png)
+![](Dan-s-Analysis-in-R_files/figure-markdown_github/Bar graph PT 2023-2024-chunk-13-1.png)
 
 #### Compare barplot of 2023-2024 data to recent jobs opening and quit rates
 
@@ -433,7 +433,7 @@ jolts2 %>% filter(Series.ID=="Opening_Rate")%>% group_by(industry)%>% summarize(
   guides(fill = "none")
 ```
 
-![](Dan-s-Analysis-in-R_files/figure-markdown_github/unnamed-chunk-15-1.png)
+![](Dan-s-Analysis-in-R_files/figure-markdown_github/Job Opening Rate-chunk-15-1.png)
 
 Retail has a relatively high Quit Rate
 
@@ -448,6 +448,6 @@ jolts2 %>% filter(Series.ID=="Quit_Rate")%>% group_by(industry)%>% summarize(mea
   guides(fill = "none")
 ```
 
-![](Dan-s-Analysis-in-R_files/figure-markdown_github/unnamed-chunk-16-1.png)
+![](Dan-s-Analysis-in-R_files/figure-markdown_github/Quit rate-chunk-16-1.png)
 
 ##### Over the past year, Retail has maintained a high pecentage of workers who are forced to work part-time because they could only find part-time work. Retail also has relatively low Job Openings and a higher Quit Rate. We can continue to analyze these dynamics.

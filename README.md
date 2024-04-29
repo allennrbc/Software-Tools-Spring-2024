@@ -8,7 +8,7 @@ We have determined that this retail industry practice of hiring part time worker
 
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
 
-Think tanks and State legislatures offer ideas that could be expanded to the federal level. Case in point is the report [“Still falling short on hours and pay. Part-time work becoming [the] new normal”](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. 
+Think tanks and State legislatures offer ideas that could be expanded to the federal level. Case in point is the report [“Still falling short on hours and pay. Part-time work becoming [the] new normal”](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) from the Economic Policy Institute by Lonnie Golden published on December 5, 2016. 
 
 
 ## Introduction
@@ -52,7 +52,7 @@ Our industry analysis is based on a subset of monthly U.S. Census Current Popula
 * WTFINL: The sample weight for each survey respondent
 	* Example: A WTFINL value of 2469 means the survey respondent is representative of 2469 Americans.
 
-The CPS data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - early 2024. The IPUMS Data was processed in the "Dan's Analysis in R.Rmd" file. This requires the Data_Tables/cps_00001.xml and cps_00001.dat.gz files to be in the working project directory. A pointer url to the very large cps_00001.dat.gz file is stored under Data_Tables/cps_00001.md.
+The CPS data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - February 2024. The IPUMS Data was processed in the "Dan's Analysis in R.Rmd" file. This requires the Data_Tables/cps_00001.xml and cps_00001.dat.gz files to be in the working project directory. A pointer url to the very large cps_00001.dat.gz file is stored under Data_Tables/cps_00001.md.
 
 To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the [average wage for retail workers](https://fred.stlouisfed.org/series/CES4200000003) and the [consumer price index](https://fred.stlouisfed.org/series/CPIAUCSL) for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100. To view the R analysis, please see RealWageMD.Rmd in the repository
 
@@ -230,9 +230,10 @@ We have determined that this retail industry practice of hiring part-time worker
 This practice is insidious because it subjects workers to dynamic schedules which confounds a worker’s ability to manage caring for family or scheduling a second job.
 
 Think tanks and State legislatures offer ideas that could be expanded to the federal level. 
-Case in point is [the report](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Gold published on December 5, 2016. 
+Case in point is [the report](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) “Still falling short on hours and pay. Part-time work becoming [the] new normal” from the Economic Policy Institute by Lonnie Golden published on December 5, 2016. 
 
 ## Policy Recommendation
+One policy highlighted by Golden is a San Jose city ordinance that "requires San Jose employers to offer newly available working hours to qualified part-time employees before hiring more part-time staff or temporary employees." The policy [went into effect in 2017](https://www.shrm.org/topics-tools/employment-law-compliance/complying-san-joses-minimum-wage-opportunity-to-work-ordinance).
 Our recommendation is to adopt the San Jose, CA 2017 policy because it has a proven track record and would be consistent with a future update to federal tax code reversing rules regarding exclusion of part-timers from many types of benefits, which currently make it attractive for employers to hire more part-time than full-time employees if benefits are increasing in cost more than wage compensation. 
 
 [(see Lambert, Fugiel, and Henly 2014)](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/1068/files/2018/05/managingprecariousworkschedules_11.11.2015-qmnh8j.pdf) 

@@ -433,7 +433,7 @@ jolts2 %>% filter(Series.ID=="Opening_Rate")%>% group_by(industry)%>% summarize(
   guides(fill = "none")
 ```
 
-![JobQuitRate](Images/JobQuitRate.PNG)
+![JobOpeningRate](Images/JobOpeningRate.PNG)
 
 Retail has a relatively high Quit Rate
 
@@ -448,6 +448,6 @@ jolts2 %>% filter(Series.ID=="Quit_Rate")%>% group_by(industry)%>% summarize(mea
   guides(fill = "none")
 ```
 
-![JobOpeningRate](Images/JobOpeningRate.PNG)
+![JobQuitRate](Images/JobQuitRate.PNG)
 
 ##### Over the past year, Retail has maintained a high pecentage of workers who are forced to work part-time because they could only find part-time work. Retail also has relatively low Job Openings and a higher Quit Rate. We can continue to analyze these dynamics.

@@ -52,7 +52,7 @@ Our industry analysis is based on a subset of monthly U.S. Census Current Popula
 * WTFINL: The sample weight for each survey respondent
 	* Example: A WTFINL value of 2469 means the survey respondent is representative of 2469 Americans.
 
- The data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - early 2024.
+The CPS data was extracted from [IPUMS.org](https://cps.ipums.org/cps/) with a timeframe of 2005 - early 2024. The IPUMS Data was processed in the "Dan's Analysis in R.Rmd" file. This requires the Data_Tables/cps_00001.xml and cps_00001.dat.gz files to be in the proejct directory. A pointer url to the very large cps_00001.dat.gz file is stored under Data_Tables/cps_00001.md.
 
 To determine if the wages paid to retail workers have kept pace with inflation, we also compared wages in retail to their real wage value and purchasing power. We did our own analysis of average real wages using Federal Reserve Economic Data on the [average wage for retail workers](https://fred.stlouisfed.org/series/CES4200000003) and the [consumer price index](https://fred.stlouisfed.org/series/CPIAUCSL) for the corresponding year and a manual calculation to adjust for inflation. The calculation we used was Real Wage in a year = (Nominal Wage in a Year/CPI in a Year)x100. To view the R analysis, please see RealWageMD.Rmd in the repository
 

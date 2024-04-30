@@ -168,7 +168,7 @@ The Patient Protection and Affordable Care Act (ACA) became law on March 23, 201
 
 Since the goal of the ACA was to allow access to healthcare for all Americans, a reduction in the number of uninsured individuals as well as a continued trend in this direction since 2010 signifies a possible potential impact. 
 
-Due to a lack of available data, our analysis does not however account for any possible correlations in data and has no statistical significance calculation.
+Our analysis for all policy comparisons mentioned do not however account for any possible correlations in data and no statistical significance calculation was made. Further analysis could be completed with more data, time, and research to determine if the policies are statistically significant or if changes were more likely to have occurred due to an outside source. 
 
 ### Employer Practices - recent history
 

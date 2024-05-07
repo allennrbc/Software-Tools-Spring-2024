@@ -10,6 +10,7 @@ This practice is insidious because it subjects workers to dynamic schedules whic
 
 Think tanks and State legislatures offer ideas that could be expanded to the federal level. Case in point is the report [“Still falling short on hours and pay. Part-time work becoming [the] new normal”](https://www.epi.org/publication/still-falling-short-on-hours-and-pay-part-time-work-becoming-new-normal/) from the Economic Policy Institute by Lonnie Golden published on December 5, 2016. 
 
+## ["Group 1 Video Presentation"](https://drive.google.com/file/d/1vVVbSTDefejRwU3CMTCPHvvJboUxsJWc/view?usp=drive_link/)
 
 ## Introduction
 
